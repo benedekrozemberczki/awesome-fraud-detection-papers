@@ -151,6 +151,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Bryan Hooi, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, Christos Faloutsos
   - [[Paper]]( )
   - [[Code]]( )
+  
+- **Identifying anomalies in graph streams using change detection (KDD 2016)**
+  - William Eberle and Lawrence Holde
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **FairPlay: Fraud and Malware Detection in Google Play (SDM 2016)**
   - Mahmudur Rahman, Mizanur Rahman, Bogdan Carbunar, Duen Horng Chau
