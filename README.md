@@ -105,6 +105,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Chang Xu, Jie Zhang, Zhu Sun
   - [[Paper]]( )
   - [[Code]]( )
+  
+- **Uncovering Unknown Unknowns in Financial Services Big Data by Unsupervised Methodologies: Present and Future trends (KDD 2017)**
+  - Gil Shabat, David Segev, Amir Averbuch
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection (SDM 2017)**
   - Si Zhang, Dawei Zhou, Mehmet Yigit Yildirim, Scott Alcorn, Jingrui He, Hasan Davulcu, Hanghang Tong
