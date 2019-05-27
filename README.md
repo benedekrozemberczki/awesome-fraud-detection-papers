@@ -74,6 +74,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 ## 2017
 
+- **Behavioral Analysis of Review Fraud: Linking Malicious Crowdsourcing to Amazon and Beyond (AAAI 2017)**
+  - Parisa Kaghazgaran, James Caverlee, Majid Alfifi
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Detection of Money Laundering Groups: Supervised Learning on Small Networks (AAAI 2017)**
   - David Savage, Qingmai Wang, Xiuzhen Zhang, Pauline Chou, Xinghuo Yu
   - [[Paper]]( )
