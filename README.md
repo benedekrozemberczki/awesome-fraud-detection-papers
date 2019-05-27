@@ -284,6 +284,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
   
 ## 2009
+- **SVM-based credit card fraud detection with reject cost and class-dependent error cost (PAKDD 2009)**
+  - En-hui Zheng,Chao Zou,Jian Sun, Le Chen
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 ## 2008
 ## 2007
 - **Relational data pre-processing techniques for improved securities fraud detection (KDD 2007)**
