@@ -218,6 +218,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 2013
+
+- **Using social network knowledge for detecting spider constructions in social security fraud (ASONAM 2013)**
+  - Véronique Van Vlasselaer, Jan Meskens, Dries Van Dromme, Bart Baesens 
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Ranking fraud detection for mobile apps: a holistic view (CIKM 2013)**
   - Hengshu Zhu, Hui Xiong, Yong Ge, Enhong Chen
   - [[Paper]]( )
@@ -239,6 +245,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 2012
+
+- **Fraud detection: Methods of analysis for hypergraph data (ASONAM 2012)**
+  - Anna Leontjeva, Konstantin Tretyakov, Jaak Vilo, and Taavi Tamkivi
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Online modeling of proactive moderation system for auction fraud detection (WWW 2012)**
   - Liang Zhang, Jie Yang, Belle L. Tseng
   - [[Paper]]( )
