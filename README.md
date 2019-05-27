@@ -76,6 +76,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 2017
+
+- **Detection of Money Laundering Groups: Supervised Learning on Small Networks (AAAI 2017)**
+  - David Savage, Qingmai Wang, Xiuzhen Zhang, Pauline Chou, Xinghuo Yu
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Spectrum-based Deep Neural Networks for Fraud Detection (CIKM 2017)**
   - Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu
   - [[Paper]]( )
