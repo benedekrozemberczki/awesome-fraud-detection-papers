@@ -23,9 +23,11 @@ A curated list of gradient and adaptive boosting papers with implementations fro
 - Data Mining
    * [KDD](https://www.kdd.org/)
    * [ICDM](http://icdm2019.bigke.org/)
+   * [SDM](http://icdm2019.bigke.org/)
    * [WWW](https://www2019.thewebconf.org/)
 - Artificial intelligence
    * [AAAI](https://www.aaai.org/)
+   * [AISTATS](http://www.auai.org/)
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
