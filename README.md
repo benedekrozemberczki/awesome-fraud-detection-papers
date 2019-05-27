@@ -278,6 +278,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
   
+- **Fraud detection by generating positive samples for classification from unlabeled data (ACL 2010)**
+  - Levente Kocsis, Andras George
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 ## 2009
 ## 2008
 ## 2007
