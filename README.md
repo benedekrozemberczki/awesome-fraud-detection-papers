@@ -40,6 +40,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
 
+- **Nextgen aml: Distributed deep learning based language technologies to augment anti money laundering investigation(ACL 2018)**
+  - Jingguang Han, Utsab Barman, Jeremiah Hayes, Jinhua Du, Edward Burgin, Dadong Wan
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Preserving Privacy of Fraud Detection Rule Sharing Using Intel%27s SGX (CIKM 2018)**
   - Daniel Deutch, Yehonatan Ginzberg, Tova Milo
   - [[Paper]]( )
