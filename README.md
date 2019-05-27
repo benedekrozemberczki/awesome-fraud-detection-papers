@@ -400,6 +400,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 1998
+
+- **Toward Scalable Learning with Non-Uniform Class and Cost Distributions: A Case Study in Credit Card Fraud Detection (Phillip K Chan, Salvatore J Stolfo 1998)**
+  - Jaakko Hollmén, Volker Tresp
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Call-Based Fraud Detection in Mobile Communication Networks Using a Hierarchical Regime-Switching Model (NIPS 1998)**
   - Jaakko Hollmén, Volker Tresp
   - [[Paper]]( )
