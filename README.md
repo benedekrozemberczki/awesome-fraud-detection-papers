@@ -16,10 +16,6 @@ A curated list of gradient and adaptive boosting papers with implementations fro
    * [NeurIPS](https://nips.cc/) 
    * [ICML](https://icml.cc/) 
    * [ICLR](https://iclr.cc/)
-- Computer vision
-   * [CVPR](http://cvpr2019.thecvf.com/)
-   * [ICCV](http://iccv2019.thecvf.com/)
-   * [ECCV](https://eccv2018.org/)
 - Natural language processing
    * [ACL](http://www.acl2019.org/EN/index.xhtml)
    * [NAACL](https://naacl2019.org/)
