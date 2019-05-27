@@ -186,6 +186,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Vincent S. Tseng, Jia-Ching Ying, Che-Wei Huang, Yimin Kao, Kuan-Ta Chen
   - [[Paper]]( )
   - [[Code]]( )
+  
+- **A Framework for intrusion detection based on frequent subgraph mining (SDM 2015)**
+  - Vitali Herrera-Semenets, Niusvel Acosta-Mendoza, Andres Gago-Alonso
+  - [[Paper]]( )
+  - [[Code]]( )  
 
 - **Crowd Fraud Detection in Internet Advertising (WWW 2015)**
   - Tian Tian, Jun Zhu, Fen Xia, Xin Zhuang, Tong Zhang
