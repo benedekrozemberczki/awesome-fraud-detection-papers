@@ -389,6 +389,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - David Jensen
   - [[Paper]]( )
   - [[Code]]( )
+  
+- **Credit card fraud detection using meta-learning: Issues and initial results (AAAI 1997)**
+  - Salvatore J. Stolfo, David W. Fan, Wenke Lee and Andreas L. Prodromidis
+  - [[Paper]]( )
+  - [[Code]]( )
 
 ## 1996
 ## 1995
