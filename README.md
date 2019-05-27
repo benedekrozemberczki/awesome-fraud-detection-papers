@@ -12,14 +12,16 @@
 </p>
 A curated list of gradient and adaptive boosting papers with implementations from the following conferences:
 
-- Natural language processing
+- Network Science
+   * [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
+- Natural Language Processing
    * [ACL](http://www.acl2019.org/EN/index.xhtml)
 - Data Mining
    * [KDD](https://www.kdd.org/)
    * [ICDM](http://icdm2019.bigke.org/)
    * [SDM](http://icdm2019.bigke.org/)
    * [WWW](https://www2019.thewebconf.org/)
-- Artificial intelligence
+- Artificial Intelligence
    * [AAAI](https://www.aaai.org/)
    * [AISTATS](http://www.auai.org/)
    * [IJCAI](https://www.ijcai.org/)
