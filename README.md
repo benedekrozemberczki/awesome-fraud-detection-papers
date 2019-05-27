@@ -325,6 +325,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 ## 2002
 ## 2001
 ## 1999
+- **Statistical challenges to inductive inference in linked data. (AISTATS 1999)**
+  - David Jensen
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 1998
 - **Call-Based Fraud Detection in Mobile Communication Networks Using a Hierarchical Regime-Switching Model (NIPS 1998)**
   - Jaakko Hollmén, Volker Tresp
