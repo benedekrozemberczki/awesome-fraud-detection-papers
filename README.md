@@ -352,6 +352,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 2005
+
+- **Technologies to Defeat Fraudulent Schemes Related to Email Requests (AAAI 2005)**
+  - Edoardo Airoldi, Bradley Malin, and Latanya Sweeney
+  - [[Paper]]()
+  - [[Code]]( )
+  
 - **Detecting Fraud in Health Insurance Data: Learning to Model Incomplete Benford%27s Law Distributions (ECML 2005)**
   - Fletcher Lu, J. Efrim Boritz
   - [[Paper]]( )
@@ -360,12 +366,6 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Using relational knowledge discovery to prevent securities fraud (KDD 2005)**
   - Jennifer Neville, Özgür Simsek, David D. Jensen, John Komoroske, Kelly Palmer, Henry G. Goldberg
   - [[Paper]]( )
-  - [[Code]]( )
-  
-
-- **Using relational knowledge discovery to prevent securities fraud (PKDD 2005)**
-  - Duen Horng Chau, Christos Faloutsos
-  - [[Paper]]()
   - [[Code]]( )
 
 ## 2004
