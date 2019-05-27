@@ -272,6 +272,17 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 2006
+
+- **Data mining approaches to criminal career analysis (ICDM 2006)**
+  - Jeroen S. De Bruin, Tim K. Cocx, Walter A. Kosters, Jeroen F. J. Laros, Joost N. Kok 
+  - [[Paper]]( )
+  - [[Code]]( )
+  
+  - **Large Scale Detection of Irregularities in Accounting Data (ICDM 2006)**
+  - Stephen Bay, Krishna Kumaraswamy, Markus G. Anderle, Rohit Kumar, David M. Steier 
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Camouflaged fraud detection in domains with complex relationships (KDD 2006)**
   - Sankar Virdhagriswaran, Gordon Dakin
   - [[Paper]]( )
