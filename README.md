@@ -68,6 +68,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Bokai Cao, Mia Mao, Siim Viidu, Philip Yu
   - [[Paper]]( )
   - [[Code]]( )
+  
+- **Fraud Detection with Density Estimation Trees (KDD 2018)**
+  - Fraud Detection with Density Estimation Trees
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **REV2: Fraudulent User Prediction in Rating Platforms (WSDM 2018)**
   - Srijan Kumar, Bryan Hooi, Disha Makhija, Mohit Kumar, Christos Faloutsos, V. S. Subrahmanian
