@@ -300,6 +300,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
   
+- **An Approach for Automatic Fraud Detection in the Insurance Domain (AAAI 2009)**
+  - Alexander Widder, Rainer v. Ammon, Gerit Hagemann, Dirk Schönfeld
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 ## 2008
 ## 2007
 - **Relational data pre-processing techniques for improved securities fraud detection (KDD 2007)**
