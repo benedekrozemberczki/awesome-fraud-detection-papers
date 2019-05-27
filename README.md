@@ -219,6 +219,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 ## 2013
 
+- **Opinion fraud detection in online reviews by network effects (AAAI 2013)**
+  - Leman Akoglu, Rishi Chandy, Christos Faloutsos
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Using social network knowledge for detecting spider constructions in social security fraud (ASONAM 2013)**
   - Véronique Van Vlasselaer, Jan Meskens, Dries Van Dromme, Bart Baesens 
   - [[Paper]]( )
