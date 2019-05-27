@@ -328,6 +328,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Jennifer Neville, Özgür Simsek, David D. Jensen, John Komoroske, Kelly Palmer, Henry G. Goldberg
   - [[Paper]]( )
   - [[Code]]( )
+  
+
+- **Using relational knowledge discovery to prevent securities fraud (PKDD 2005)**
+  - Duen Horng Chau, Christos Faloutsos
+  - [[Paper]]()
+  - [[Code]]( )
 
 ## 2004
 ## 2003
@@ -338,6 +344,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 ## 2002
 ## 2001
+## 2000
+- **Document classification and visualisation to support the investigation of suspected fraud (PKDD 2000)**
+  - Johan Hagman, Domenico Perrotta, Ralf Steinberger, and Aristi de Varfis
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 ## 1999
 - **Statistical challenges to inductive inference in linked data. (AISTATS 1999)**
   - David Jensen
