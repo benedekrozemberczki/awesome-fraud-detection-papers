@@ -12,14 +12,8 @@
 </p>
 A curated list of gradient and adaptive boosting papers with implementations from the following conferences:
 
-- Machine learning
-   * [NeurIPS](https://nips.cc/) 
-   * [ICML](https://icml.cc/) 
-   * [ICLR](https://iclr.cc/)
 - Natural language processing
    * [ACL](http://www.acl2019.org/EN/index.xhtml)
-   * [NAACL](https://naacl2019.org/)
-   * [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
 - Data Mining
    * [KDD](https://www.kdd.org/)
    * [ICDM](http://icdm2019.bigke.org/)
