@@ -269,6 +269,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 2010
+
+- **Hunting for the black swan: risk mining from text (ACL 2010)**
+  - JL Leidner, F Schilder
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 ## 2009
 ## 2008
 ## 2007
