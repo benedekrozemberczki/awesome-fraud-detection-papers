@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <p align="center">
-  <img width="450" src="boosting.gif">
+  <img width="450" src="fraud.png">
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/stars-0+-blue.svg"/>
