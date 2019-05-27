@@ -363,6 +363,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]]()
   - [[Code]]( )
   
+- **AI Technologies to Defeat Identity Theft Vulnerabilities (AAAI 2005)**
+  - Latanya Sweeney
+  - [[Paper]]()
+  - [[Code]]( )
+  
 - **Detecting Fraud in Health Insurance Data: Learning to Model Incomplete Benford%27s Law Distributions (ECML 2005)**
   - Fletcher Lu, J. Efrim Boritz
   - [[Paper]]( )
