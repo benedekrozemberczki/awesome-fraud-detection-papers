@@ -39,7 +39,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Preserving Privacy of Fraud Detection Rule Sharing Using Intel%27s SGX (CIKM 2018)**
+- **Preserving Privacy of Fraud Detection Rule Sharing Using Intel's SGX (CIKM 2018)**
   - Daniel Deutch, Yehonatan Ginzberg, Tova Milo
   - [[Paper]]( )
   - [[Code]]( )
@@ -153,7 +153,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 2015
-- **Graph Analysis for Detecting Fraud%2C Waste%2C and Abuse in Healthcare Data (AAAI 2015)**
+- **Toward An Intelligent Agent for Fraud Detection—The CFE Agent (AAAI 2015)**
+  - Joe Johnson
+  - [[Paper]]( )
+  - [[Code]]( )
+  
+- **Graph Analysis for Detecting Fraud, Waste, and Abuse in Healthcare Data (AAAI 2015)**
   - Juan Liu, Eric Bier, Aaron Wilson, Tomonori Honda, Kumar Sricharan, Leilani Gilpin, John Alexis Guerra Gómez, Daniel Davies
   - [[Paper]]( )
   - [[Code]]( )
