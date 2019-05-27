@@ -332,8 +332,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 1997
+
 - **Detection of Mobile Phone Fraud Using Supervised Neural Networks: A First Prototype (ICANN 1997)**
   - Yves Moreau, Herman Verrelst, Joos Vandewalle
+  - [[Paper]]( )
+  - [[Code]]( )
+  
+- **Prospective Assessment of AI Technologies for Fraud Detection: A Case Study (AAAI 1997)**
+  - David Jensen
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -343,4 +349,6 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Kazuo J. Ezawa, Til Schuermann
   - [[Paper]]( )
   - [[Code]]( )
+  
+
 
