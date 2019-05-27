@@ -63,6 +63,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Daniel de Roux, Boris Perez, Andrés Moreno, María-Del-Pilar Villamil, César Figueroa
   - [[Paper]]( )
   - [[Code]]( )
+  
+- **Collective Fraud Detection Capturing Inter-Transaction Dependency (KDD 2018)**
+  - Bokai Cao, Mia Mao, Siim Viidu, Philip Yu
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **REV2: Fraudulent User Prediction in Rating Platforms (WSDM 2018)**
   - Srijan Kumar, Bryan Hooi, Disha Makhija, Mohit Kumar, Christos Faloutsos, V. S. Subrahmanian
@@ -118,6 +123,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   
 - **Uncovering Unknown Unknowns in Financial Services Big Data by Unsupervised Methodologies: Present and Future trends (KDD 2017)**
   - Gil Shabat, David Segev, Amir Averbuch
+  - [[Paper]]( )
+  - [[Code]]( )
+  
+- **PD-FDS: Purchase Density based Online Credit Card Fraud Detection System (KDD 2017)**
+  - Youngjoon Ki, Ji Won Yoon 
   - [[Paper]]( )
   - [[Code]]( )
 
