@@ -31,33 +31,27 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 ## 2018
 - **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
   - Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16650)
 
-- **Nextgen aml: Distributed deep learning based language technologies to augment anti money laundering investigation(ACL 2018)**
+- **Nextgen AML: Distributed Deep Learning Based Language Technologies to Augment Anti Money Laundering Investigation(ACL 2018)**
   - Jingguang Han, Utsab Barman, Jeremiah Hayes, Jinhua Du, Edward Burgin, Dadong Wan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/P18-4007)
 
 - **Preserving Privacy of Fraud Detection Rule Sharing Using Intel's SGX (CIKM 2018)**
   - Daniel Deutch, Yehonatan Ginzberg, Tova Milo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/328439345_Preserving_Privacy_of_Fraud_Detection_Rule_Sharing_Using_Intel%27s_SGX)
 
 - **Deep Structure Learning for Fraud Detection (ICDM 2018)**
   - Haibo Wang, Chuan Zhou, Jia Wu, Weizhen Dang, Xingquan Zhu, Jilong Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/330030140_Deep_Structure_Learning_for_Fraud_Detection)
 
 - **Learning Sequential Behavior Representations for Fraud Detection (ICDM 2018)**
   - Jia Guo, Guannan Liu, Yuan Zuo, Junjie Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/330028902_Learning_Sequential_Behavior_Representations_for_Fraud_Detection)
 
 - **Impression Allocation for Combating Fraud in E-commerce Via Deep Reinforcement Learning with Action Norm Penalty (IJCAI 2018)**
   - Mengchen Zhao, Zhao Li, Bo An, Haifeng Lu, Yifan Yang, Chen Chu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2018/0548.pdf)
 
 - **Tax Fraud Detection for Under-Reporting Declarations Using an Unsupervised Machine Learning Approach (KDD 2018)**
   - Daniel de Roux, Boris Perez, Andrés Moreno, María-Del-Pilar Villamil, César Figueroa
@@ -448,7 +442,6 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
 
-## 1996
 ## 1995
 - **Fraud%2FUncollectible Debt Detection Using a Bayesian Network Based Learning System: A Rare Binary Outcome with Mixed Data Structures (UAI 1995)**
   - Kazuo J. Ezawa, Til Schuermann
