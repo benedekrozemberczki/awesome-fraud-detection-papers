@@ -204,29 +204,24 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 ## 2014
 - **Fraudulent Support Telephone Number Identification Based on Co-Occurrence Information on the Web (AAAI 2014)**
   - Xin Li, Yiqun Liu, Min Zhang, Shaoping Ma
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/2733/1f48c87736ea12b9edec062e384d3bd58f88.pdf)
 
 - **Corporate residence fraud detection (KDD 2014)**
   - Enric Junqué de Fortuny, Marija Stankova, Julie Moeyersoms, Bart Minnaert, Foster J. Provost, David Martens
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://delivery.acm.org/10.1145/2630000/2623333/p1650-fortuny.pdf?ip=129.215.164.203&id=2623333&acc=ACTIVE%20SERVICE&key=C2D842D97AC95F7A%2EEB9E991028F4E1F1%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559048806_f1a6f763ef7088a4fb4b1a4ff94856f8)
 
 - **Graphical Models for Identifying Fraud and Waste in Healthcare Claims (SDM 2014)**
   - Peder A. Olsen, Ramesh Natarajan, Sholom M. Weiss
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611973440.66)
 
 - **Improving Credit Card Fraud Detection with Calibrated Probabilities (SDM 2014)**
   - Alejandro Correa Bahnsen, Aleksandar Stojanovic, Djamila Aouada, Björn E. Ottersten
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/9241/ef2a2f6638eafeffd0056736c0f46f9aa083.pdf)
 
-- **Large graph mining: patterns%2C cascades%2C fraud detection%2C and algorithms (WWW 2014)**
+- **Large graph mining: patterns, cascades, fraud detection, and algorithms (WWW 2014)**
   - Christos Faloutsos
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](http://wwwconference.org/proceedings/www2014/proceedings/p1.pdf)
+  
 ## 2013
 
 - **Opinion fraud detection in online reviews by network effects (AAAI 2013)**
