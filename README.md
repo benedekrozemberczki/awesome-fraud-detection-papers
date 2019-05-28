@@ -296,24 +296,20 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 - **Hunting for the black swan: risk mining from text (ACL 2010)**
   - JL Leidner, F Schilder
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/P10-4010)
   
 - **Fraud detection by generating positive samples for classification from unlabeled data (ACL 2010)**
   - Levente Kocsis, Andras George
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.szit.bme.hu/~gya/publications/KocsisGyorgy.pdf)
   
 ## 2009
 - **SVM-based credit card fraud detection with reject cost and class-dependent error cost (PAKDD 2009)**
   - En-hui Zheng,Chao Zou,Jian Sun, Le Chen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.semanticscholar.org/paper/SVM-Based-Cost-sensitive-Classification-Algorithm-Zheng-Zou/bcae06626ccd453925ef040a1edb5cbb10b862ef)
   
 - **An Approach for Automatic Fraud Detection in the Insurance Domain (AAAI 2009)**
   - Alexander Widder, Rainer v. Ammon, Gerit Hagemann, Dirk Schönfeld
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.325.3231&rep=rep1&type=pdf)
   
 ## 2007
 - **Relational data pre-processing techniques for improved securities fraud detection (KDD 2007)**
