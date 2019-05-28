@@ -55,28 +55,23 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 - **Tax Fraud Detection for Under-Reporting Declarations Using an Unsupervised Machine Learning Approach (KDD 2018)**
   - Daniel de Roux, Boris Perez, Andrés Moreno, María-Del-Pilar Villamil, César Figueroa
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.kdd.org/kdd2018/accepted-papers/view/tax-fraud-detection-for-under-reporting-declarations-using-an-unsupervised-)
   
 - **Collective Fraud Detection Capturing Inter-Transaction Dependency (KDD 2018)**
   - Bokai Cao, Mia Mao, Siim Viidu, Philip Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v71/cao18a.html)
   
 - **Fraud Detection with Density Estimation Trees (KDD 2018)**
   - Fraud Detection with Density Estimation Trees
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v71/ram18a/ram18a.pdf)
 
 - **REV2: Fraudulent User Prediction in Rating Platforms (WSDM 2018)**
   - Srijan Kumar, Bryan Hooi, Disha Makhija, Mohit Kumar, Christos Faloutsos, V. S. Subrahmanian
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf)
 
 - **Exposing Search and Advertisement Abuse Tactics and Infrastructure of Technical Support Scammers (WWW 2018)**
   - Bharat Srinivasan, Athanasios Kountouras, Najmeh Miramirkhani, Monjur Alam, Nick Nikiforakis, Manos Antonakakis, Mustaque Ahamad
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.securitee.org/files/tss_www2018.pdf)
 
 ## 2017
 
