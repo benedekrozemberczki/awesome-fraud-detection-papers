@@ -254,7 +254,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Anomaly%2C event%2C and fraud detection in large network datasets (WSDM 2013)**
+- **Anomaly, event, and fraud detection in large network datasets (WSDM 2013)**
   - Leman Akoglu, Christos Faloutsos
   - [[Paper]]( )
   - [[Code]]( )
