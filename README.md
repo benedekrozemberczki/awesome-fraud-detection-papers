@@ -443,10 +443,6 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 ## 1995
-- **Fraud%2FUncollectible Debt Detection Using a Bayesian Network Based Learning System: A Rare Binary Outcome with Mixed Data Structures (UAI 1995)**
+- **Fraud: Uncollectible Debt Detection Using a Bayesian Network Based Learning System: A Rare Binary Outcome with Mixed Data Structures (UAI 1995)**
   - Kazuo J. Ezawa, Til Schuermann
-  - [[Paper]]( )
-  - [[Code]]( )
-  
-
-
+  - [[Paper]](https://arxiv.org/abs/1302.4945)
