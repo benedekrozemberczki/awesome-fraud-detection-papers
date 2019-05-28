@@ -378,32 +378,27 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 ## 2003
 - **Applying data mining in investigating money laundering crimes (KDD 2003)**
   - Zhongfei (Mark) Zhang, John J. Salerno, Philip S. Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/9124/b61d48b7e52008c7fd5fac1b7eac38474581.pdf)
 
 ## 2000
 - **Document classification and visualisation to support the investigation of suspected fraud (PKDD 2000)**
   - Johan Hagman, Domenico Perrotta, Ralf Steinberger, and Aristi de Varfis
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/9124/b61d48b7e52008c7fd5fac1b7eac38474581.pdf)
   
 ## 1999
 - **Statistical challenges to inductive inference in linked data. (AISTATS 1999)**
   - David Jensen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.589.1445&rep=rep1&type=pdf)
 
 ## 1998
 
 - **Toward Scalable Learning with Non-Uniform Class and Cost Distributions: A Case Study in Credit Card Fraud Detection (KDD 1998)**
   - Phillip K Chan, Salvatore J Stolfo 
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/6e19/3366945bf3bd72d5ba906e3982ac4d8ae874.pdf)
   
 - **Call-Based Fraud Detection in Mobile Communication Networks Using a Hierarchical Regime-Switching Model (NIPS 1998)**
   - Jaakko Hollmén, Volker Tresp
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/1505-call-based-fraud-detection-in-mobile-communication-networks-using-a-hierarchical-regime-switching-model.pdf)
 
 ## 1997
 
