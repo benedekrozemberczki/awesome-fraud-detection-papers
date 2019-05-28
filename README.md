@@ -263,34 +263,28 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 - **Fraud detection: Methods of analysis for hypergraph data (ASONAM 2012)**
   - Anna Leontjeva, Konstantin Tretyakov, Jaak Vilo, and Taavi Tamkivi
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6425618)
 
 - **Online modeling of proactive moderation system for auction fraud detection (WWW 2012)**
   - Liang Zhang, Jie Yang, Belle L. Tseng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.chennaisunday.com/Java%202012%20Base%20Paper/Online%20Modeling%20of%20Proactive%20Moderation%20System%20for%20Auction%20Fraud%20Detection.pdf)
 
 ## 2011
 - **A machine-learned proactive moderation system for auction fraud detection (CIKM 2011)**
   - Liang Zhang, Jie Yang, Wei Chu, Belle L. Tseng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.gatsby.ucl.ac.uk/~chuwei/paper/p2501-zhang.pdf)
 
 - **A Taxi Driving Fraud Detection System (ICDM 2011)**
   - Yong Ge, Hui Xiong, Chuanren Liu, Zhi-Hua Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/6137222)
 
 - **Utility-Based Fraud Detection (IJCAI 2011)**
   - Luís Torgo, Elsa Lopes
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/11/Papers/255.pdf)
 
 - **A pattern discovery approach to retail fraud detection (KDD 2011)**
   - Prasad Gabbur, Sharath Pankanti, Quanfu Fan, Hoang Trinh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www2.engr.arizona.edu/~pgsangam/gabbur_kdd_11.pdf)
 
 ## 2010
 
