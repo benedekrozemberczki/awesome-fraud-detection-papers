@@ -105,23 +105,19 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 - **Online Reputation Fraud Campaign Detection in User Ratings (IJCAI 2017)**
   - Chang Xu, Jie Zhang, Zhu Sun
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2017/0541.pdf)
   
 - **Uncovering Unknown Unknowns in Financial Services Big Data by Unsupervised Methodologies: Present and Future trends (KDD 2017)**
   - Gil Shabat, David Segev, Amir Averbuch
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v71/shabat18a.html)
   
 - **PD-FDS: Purchase Density based Online Credit Card Fraud Detection System (KDD 2017)**
   - Youngjoon Ki, Ji Won Yoon 
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](http://proceedings.mlr.press/v71/ki18a/ki18a.pdf)
+  
 - **HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection (SDM 2017)**
   - Si Zhang, Dawei Zhou, Mehmet Yigit Yildirim, Scott Alcorn, Jingrui He, Hasan Davulcu, Hanghang Tong
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.public.asu.edu/~hdavulcu/SDM17.pdf)
 
 ## 2016
 - **A Fraud Resilient Medical Insurance Claim System (AAAI 2016)**
