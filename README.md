@@ -331,7 +331,6 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
   
-## 2008
 ## 2007
 - **Relational data pre-processing techniques for improved securities fraud detection (KDD 2007)**
   - Andrew S. Fast, Lisa Friedland, Marc E. Maier, Brian J. Taylor, David D. Jensen, Henry G. Goldberg, John Komoroske
@@ -392,15 +391,12 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
 
-## 2004
 ## 2003
 - **Applying data mining in investigating money laundering crimes (KDD 2003)**
   - Zhongfei (Mark) Zhang, John J. Salerno, Philip S. Yu
   - [[Paper]]( )
   - [[Code]]( )
 
-## 2002
-## 2001
 ## 2000
 - **Document classification and visualisation to support the investigation of suspected fraud (PKDD 2000)**
   - Johan Hagman, Domenico Perrotta, Ralf Steinberger, and Aristi de Varfis
