@@ -357,23 +357,19 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 - **Technologies to Defeat Fraudulent Schemes Related to Email Requests (AAAI 2005)**
   - Edoardo Airoldi, Bradley Malin, and Latanya Sweeney
-  - [[Paper]]()
-  - [[Code]]( )
+  - [[Paper]](http://www.aaai.org/Library/Symposia/Spring/2005/ss05-01-023.php)
   
 - **AI Technologies to Defeat Identity Theft Vulnerabilities (AAAI 2005)**
   - Latanya Sweeney
-  - [[Paper]]()
-  - [[Code]]( )
+  - [[Paper]](https://dataprivacylab.org/dataprivacy/projects/idangel/paper1.pdf)
   
-- **Detecting Fraud in Health Insurance Data: Learning to Model Incomplete Benford%27s Law Distributions (ECML 2005)**
+- **Detecting Fraud in Health Insurance Data: Learning to Model Incomplete Benford's Law Distributions (ECML 2005)**
   - Fletcher Lu, J. Efrim Boritz
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://faculty.uoit.ca/fletcherlu/LuECML05.pdf)
 
 - **Using relational knowledge discovery to prevent securities fraud (KDD 2005)**
   - Jennifer Neville, Özgür Simsek, David D. Jensen, John Komoroske, Kelly Palmer, Henry G. Goldberg
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.purdue.edu/homes/neville/papers/neville-et-al-kdd2005.pdf)
 
 ## 2003
 - **Applying data mining in investigating money laundering crimes (KDD 2003)**
