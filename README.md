@@ -27,7 +27,7 @@ A curated list of fraud detection papers with implementations from the following
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
-Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 ## 2018
 - **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
   - Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang
