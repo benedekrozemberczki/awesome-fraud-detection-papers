@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/forks-0+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
-A curated list of fraud detection papers with implementations from the following conferences:
+A curated list of papers about fraud detection from the following conferences:
 
 - Network Science
    * [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
