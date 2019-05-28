@@ -297,7 +297,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Jeroen S. De Bruin, Tim K. Cocx, Walter A. Kosters, Jeroen F. J. Laros, Joost N. Kok 
   - [[Paper]](https://ieeexplore.ieee.org/document/4053045)
   
-  - **Large Scale Detection of Irregularities in Accounting Data (ICDM 2006)**
+- **Large Scale Detection of Irregularities in Accounting Data (ICDM 2006)**
   - Stephen Bay, Krishna Kumaraswamy, Markus G. Anderle, Rohit Kumar, David M. Steier 
   - [[Paper]](https://ieeexplore.ieee.org/document/4053036)
   
