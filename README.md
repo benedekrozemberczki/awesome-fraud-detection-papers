@@ -429,18 +429,15 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 - **Detection of Mobile Phone Fraud Using Supervised Neural Networks: A First Prototype (ICANN 1997)**
   - Yves Moreau, Herman Verrelst, Joos Vandewalle
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://link.springer.com/content/pdf/10.1007%2FBFb0020294.pdf)
   
 - **Prospective Assessment of AI Technologies for Fraud Detection: A Case Study (AAAI 1997)**
   - David Jensen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/0efe/8a145cc4d52e8769bb1d13142326a154624f.pdf)
   
 - **Credit card fraud detection using meta-learning: Issues and initial results (AAAI 1997)**
   - Salvatore J. Stolfo, David W. Fan, Wenke Lee and Andreas L. Prodromidis
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/29b3/e330e0045e5da71cc1d333bed24b7a4670f8.pdf)
 
 ## 1995
 - **Fraud: Uncollectible Debt Detection Using a Bayesian Network Based Learning System: A Rare Binary Outcome with Mixed Data Structures (UAI 1995)**
