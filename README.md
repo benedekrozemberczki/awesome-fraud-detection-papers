@@ -318,40 +318,33 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 ## 2007
 - **Relational data pre-processing techniques for improved securities fraud detection (KDD 2007)**
   - Andrew S. Fast, Lisa Friedland, Marc E. Maier, Brian J. Taylor, David D. Jensen, Henry G. Goldberg, John Komoroske
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1281192.1281293)
 
 - **Uncovering Fraud in Direct Marketing Data with a Fraud Auditing Case Builder (PKDD 2007)**
   - Fletcher Lu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-74976-9_56)
 
 - **Netprobe: a fast and scalable system for fraud detection in online auction networks (WWW 2007)**
   - Shashank Pandit, Duen Horng Chau, Samuel Wang, Christos Faloutsos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.cmu.edu/~christos/PUBLICATIONS/netprobe-www07.pdf)
 
 ## 2006
 
 - **Data mining approaches to criminal career analysis (ICDM 2006)**
   - Jeroen S. De Bruin, Tim K. Cocx, Walter A. Kosters, Jeroen F. J. Laros, Joost N. Kok 
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/4053045)
   
   - **Large Scale Detection of Irregularities in Accounting Data (ICDM 2006)**
   - Stephen Bay, Krishna Kumaraswamy, Markus G. Anderle, Rohit Kumar, David M. Steier 
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/4053036)
   
 - **Camouflaged fraud detection in domains with complex relationships (KDD 2006)**
   - Sankar Virdhagriswaran, Gordon Dakin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1150532)
 
 - **Detecting Fraudulent Personalities in Networks of Online Auctioneers (PKDD 2006)**
   - Duen Horng Chau, Shashank Pandit, Christos Faloutsos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.cmu.edu/~dchau/papers/auction_fraud_pkdd06.pdf)
 
 ## 2005
 
