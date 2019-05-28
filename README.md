@@ -77,38 +77,31 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 - **Behavioral Analysis of Review Fraud: Linking Malicious Crowdsourcing to Amazon and Beyond (AAAI 2017)**
   - Parisa Kaghazgaran, James Caverlee, Majid Alfifi
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15659)
   
 - **Detection of Money Laundering Groups: Supervised Learning on Small Networks (AAAI 2017)**
   - David Savage, Qingmai Wang, Xiuzhen Zhang, Pauline Chou, Xinghuo Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/1608.00708.pdf)
   
 - **Spectrum-based Deep Neural Networks for Fraud Detection (CIKM 2017)**
   - Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1706.00891)
 
 - **HoloScope: Topology-and-Spike Aware Fraud Detection (CIKM 2017)**
   - Shenghua Liu, Bryan Hooi, Christos Faloutsos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1705.02505)
 
 - **The Many Faces of Link Fraud (ICDM 2017)**
   - Neil Shah, Hemank Lamba, Alex Beutel, Christos Faloutsos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1704.01420)
 
 - **HitFraud: A Broad Learning Approach for Collective Fraud Detection in Heterogeneous Information Networks (ICDM 2017)**
   - Bokai Cao, Mia Mao, Siim Viidu, Philip S. Yu
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://arxiv.org/abs/1709.04129)
+  
 - **GANG: Detecting Fraudulent Users in Online Social Networks via Guilt-by-Association on Directed Graphs (ICDM 2017)**
   - Binghui Wang, Neil Zhenqiang Gong, Hao Fu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/8215519)
 
 - **Online Reputation Fraud Campaign Detection in User Ratings (IJCAI 2017)**
   - Chang Xu, Jie Zhang, Zhu Sun
