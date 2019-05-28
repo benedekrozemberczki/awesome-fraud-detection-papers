@@ -122,33 +122,27 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 ## 2016
 - **A Fraud Resilient Medical Insurance Claim System (AAAI 2016)**
   - Yuliang Shi, Chenfei Sun, Qingzhong Li, Lizhen Cui, Han Yu, Chunyan Miao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11813)
 
 - **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage (KDD 2016)**
   - Bryan Hooi, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, Christos Faloutsos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.andrew.cmu.edu/user/bhooi/papers/fraudar_kdd16.pdf)
   
 - **Identifying anomalies in graph streams using change detection (KDD 2016)**
   - William Eberle and Lawrence Holde
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.mlgworkshop.org/2016/paper/MLG2016_paper_12.pdf)
 
 - **FairPlay: Fraud and Malware Detection in Google Play (SDM 2016)**
   - Mahmudur Rahman, Mizanur Rahman, Bogdan Carbunar, Duen Horng Chau
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1703.02002)
 
 - **BIRDNEST: Bayesian Inference for Ratings-Fraud Detection (SDM 2016)**
   - Bryan Hooi, Neil Shah, Alex Beutel, Stephan Günnemann, Leman Akoglu, Mohit Kumar, Disha Makhija, Christos Faloutsos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.andrew.cmu.edu/user/bhooi/papers/birdnest_sdm16.pdf)
 
 - **Understanding the Detection of View Fraud in Video Content Portals (WWW 2016)**
   - Miriam Marciel, Rubén Cuevas, Albert Banchs, Roberto Gonzalez, Stefano Traverso, Mohamed Ahmed, Arturo Azcorra
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2882980)
 
 ## 2015
 - **Toward An Intelligent Agent for Fraud Detection—The CFE Agent (AAAI 2015)**
