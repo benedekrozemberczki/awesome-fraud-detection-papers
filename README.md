@@ -147,53 +147,43 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 ## 2015
 - **Toward An Intelligent Agent for Fraud Detection—The CFE Agent (AAAI 2015)**
   - Joe Johnson
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/FSS/FSS15/paper/download/11664/11485)
   
 - **Graph Analysis for Detecting Fraud, Waste, and Abuse in Healthcare Data (AAAI 2015)**
   - Juan Liu, Eric Bier, Aaron Wilson, Tomonori Honda, Kumar Sricharan, Leilani Gilpin, John Alexis Guerra Gómez, Daniel Davies
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/1ea7/125b789ef938bffe10c7588e6b071c4ff73c.pdf)
 
 - **Robust System for Identifying Procurement Fraud (AAAI 2015)**
   - Amit Dhurandhar, Rajesh Kumar Ravi, Bruce Graves, Gopikrishnan Maniachari, Markus Ettl
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/27af/c9ec453ae0cf9e55f4032ff688cb70c2a61e.pdf)
 
 - **Fraud Transaction Recognition: A Money Flow Network Approach (CIKM 2015)**
   - Renxin Mao, Zhao Li, Jinhua Fu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2806647)
 
 - **Towards Collusive Fraud Detection in Online Reviews (ICDM 2015)**
   - Chang Xu, Jie Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/7373434)
 
 - **Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation (IJCAI 2015)**
   - Yongfeng Zhang, Yunzhi Tan, Min Zhang, Yiqun Liu, Tat-Seng Chua, Shaoping Ma
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/341.pdf)
 
 - **Graph-Based User Behavior Modeling: From Prediction to Fraud Detection (KDD 2015)**
   - Alex Beutel, Leman Akoglu, Christos Faloutsos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.cmu.edu/~abeutel/kdd2015_tutorial/tutorial.pdf)
 
 - **FrauDetector: A Graph-Mining-based Framework for Fraudulent Phone Call Detection (KDD 2015)**
   - Vincent S. Tseng, Jia-Ching Ying, Che-Wei Huang, Yimin Kao, Kuan-Ta Chen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://repository.ncku.edu.tw/bitstream/987654321/166322/1/4010204000-000004_1.pdf)
   
 - **A Framework for intrusion detection based on frequent subgraph mining (SDM 2015)**
   - Vitali Herrera-Semenets, Niusvel Acosta-Mendoza, Andres Gago-Alonso
-  - [[Paper]]( )
-  - [[Code]]( )  
+  - [[Paper]](https://www.researchgate.net/publication/271839253_A_Framework_for_Intrusion_Detection_based_on_Frequent_Subgraph_Mining)
 
 - **Crowd Fraud Detection in Internet Advertising (WWW 2015)**
   - Tian Tian, Jun Zhu, Fen Xia, Xin Zhuang, Tong Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.www2015.it/documents/proceedings/proceedings/p1100.pdf)
 
 ## 2014
 - **Fraudulent Support Telephone Number Identification Based on Co-Occurrence Information on the Web (AAAI 2014)**
