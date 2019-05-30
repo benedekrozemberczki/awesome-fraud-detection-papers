@@ -32,6 +32,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
   - Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang
   - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16650)
+  
+- **Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees (AAAI 2018)**
+  - Dennis J. N. J. Soemers, Tim Brys, Kurt Driessens, Mark H. M. Winands, Ann Nowé
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16183/16394)
 
 - **Nextgen AML: Distributed Deep Learning Based Language Technologies to Augment Anti Money Laundering Investigation(ACL 2018)**
   - Jingguang Han, Utsab Barman, Jeremiah Hayes, Jinhua Du, Edward Burgin, Dadong Wan
