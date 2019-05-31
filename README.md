@@ -6,8 +6,8 @@
   <img width="450" src="fraud.png">
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-20+-blue.svg"/>
-        <img src="https://img.shields.io/badge/forks-0+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-30+-blue.svg"/>
+        <img src="https://img.shields.io/badge/forks-5+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
 A curated list of papers about fraud detection from the following conferences:
