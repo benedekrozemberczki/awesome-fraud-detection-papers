@@ -32,7 +32,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 ## 2019
 - **Think Outside the Dataset: Finding Fraudulent Reviews using Cross-Dataset Analysis (WWW 2019)**
   - Shirin Nilizadeh, Hojjat Aghakhani, Eric Gustafson, Christopher Kruegel, Giovanni Vigna
-  - [[Paper]]( )
+  - [[Paper]](https://www.researchgate.net/publication/333060486_Think_Outside_the_Dataset_Finding_Fraudulent_Reviews_using_Cross-Dataset_Analysis)
   - [[Code]]( )
 
 - **Securing the Deep Fraud Detector in Large-Scale E-Commerce Platform via Adversarial Machine Learning Approach (WWW 2019)**
