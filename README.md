@@ -28,6 +28,23 @@ A curated list of papers about fraud detection from the following conferences:
    * [UAI](http://www.auai.org/)
 
 Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+
+## 2019
+- **Think Outside the Dataset: Finding Fraudulent Reviews using Cross-Dataset Analysis (WWW 2019)**
+  - Shirin Nilizadeh, Hojjat Aghakhani, Eric Gustafson, Christopher Kruegel, Giovanni Vigna
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Securing the Deep Fraud Detector in Large-Scale E-Commerce Platform via Adversarial Machine Learning Approach (WWW 2019)**
+  - Qingyu Guo, Zhao Li, Bo An, Pengrui Hui, Jiaming Huang, Long Zhang, Mengchen Zhao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **No Place to Hide: Catching Fraudulent Entities in Tensors (WWW 2019)**
+  - Yikun Ban, Xin Liu, Ling Huang, Yitao Duan, Xue Liu, Wei Xu
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2018
 - **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
   - Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang
