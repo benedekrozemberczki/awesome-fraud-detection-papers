@@ -38,7 +38,6 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Securing the Deep Fraud Detector in Large-Scale E-Commerce Platform via Adversarial Machine Learning Approach (WWW 2019)**
   - Qingyu Guo, Zhao Li, Bo An, Pengrui Hui, Jiaming Huang, Long Zhang, Mengchen Zhao
   - [[Paper]](https://www.ntu.edu.sg/home/boan/papers/WWW19.pdf)
-  - [[Code]]( )
 
 - **No Place to Hide: Catching Fraudulent Entities in Tensors (WWW 2019)**
   - Yikun Ban, Xin Liu, Ling Huang, Yitao Duan, Xue Liu, Wei Xu
