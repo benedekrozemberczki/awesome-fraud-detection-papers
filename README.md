@@ -42,8 +42,7 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 - **No Place to Hide: Catching Fraudulent Entities in Tensors (WWW 2019)**
   - Yikun Ban, Xin Liu, Ling Huang, Yitao Duan, Xue Liu, Wei Xu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/1810.06230.pdf)
 
 ## 2018
 - **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
