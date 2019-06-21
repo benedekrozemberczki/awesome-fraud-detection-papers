@@ -6,7 +6,7 @@
   <img width="450" src="fraud.png">
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-80+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-90+-blue.svg"/>
         <img src="https://img.shields.io/badge/forks-15+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
