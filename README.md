@@ -25,6 +25,12 @@ A curated list of papers about fraud detection from the following conferences:
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
+
+- **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
+  - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Think Outside the Dataset: Finding Fraudulent Reviews using Cross-Dataset Analysis (WWW 2019)**
   - Shirin Nilizadeh, Hojjat Aghakhani, Eric Gustafson, Christopher Kruegel, Giovanni Vigna
   - [[Paper]](https://www.researchgate.net/publication/333060486_Think_Outside_the_Dataset_Finding_Fraudulent_Reviews_using_Cross-Dataset_Analysis)
