@@ -25,6 +25,15 @@ A curated list of papers about fraud detection from the following conferences:
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
+- **SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)**
+  - Panpan Zheng, Shuhan Yuan, Xintao Wu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **One-Class Adversarial Nets for Fraud Detection (AAAI 2019)**
+  - Panpan Zheng, Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
