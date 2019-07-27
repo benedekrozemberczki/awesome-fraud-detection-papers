@@ -27,12 +27,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2019
 - **SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)**
   - Panpan Zheng, Shuhan Yuan, Xintao Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1809.04683v2)
+  - [[Code]](https://github.com/PanpanZheng/SAFE)
 
 - **One-Class Adversarial Nets for Fraud Detection (AAAI 2019)**
   - Panpan Zheng, Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1803.01798)
   - [[Code]]( )
 
 - **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
