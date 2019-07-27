@@ -38,7 +38,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
   - [[Paper]]( )
-  - [[Code]]( )
 
 - **Think Outside the Dataset: Finding Fraudulent Reviews using Cross-Dataset Analysis (WWW 2019)**
   - Shirin Nilizadeh, Hojjat Aghakhani, Eric Gustafson, Christopher Kruegel, Giovanni Vigna
