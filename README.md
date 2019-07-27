@@ -33,7 +33,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **One-Class Adversarial Nets for Fraud Detection (AAAI 2019)**
   - Panpan Zheng, Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu
   - [[Paper]](https://arxiv.org/abs/1803.01798)
-  - [[Code]]( )
+  - [[Code]](https://github.com/ILoveAI2019/OCAN)
 
 - **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
