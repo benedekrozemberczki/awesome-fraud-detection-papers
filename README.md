@@ -34,6 +34,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Panpan Zheng, Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu
   - [[Paper]](https://arxiv.org/abs/1803.01798)
   - [[Code]](https://github.com/ILoveAI2019/OCAN)
+  
+- **Spotting Collective Behaviour of Online Frauds in Customer Reviews (IJCAI 2019)**
+  - Sarthika Dhawan, Siva Charan Reddy Gangireddy, Shiv Kumar, Tanmoy Chakraborty
+  - [[Paper]](https://arxiv.org/abs/1905.13649)
+  - [[Code]](https://github.com/LCS2-IIITD/DeFrauder)
 
 - **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
