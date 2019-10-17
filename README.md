@@ -15,7 +15,7 @@ A curated list of papers about fraud detection from the following conferences:
    * [KDD](https://www.kdd.org/)
    * [ICDM](http://icdm2019.bigke.org/)
    * [SIGIR](https://sigir.org/)
-   * [SDM](http://icdm2019.bigke.org/)
+   * [SDM](https://www.siam.org/conferences/cm/conference/sdm20)
    * [WWW](https://www2019.thewebconf.org/)
 - Artificial Intelligence
    * [AAAI](https://www.aaai.org/)
