@@ -14,6 +14,7 @@ A curated list of papers about fraud detection from the following conferences:
 - Data Mining
    * [KDD](https://www.kdd.org/)
    * [ICDM](http://icdm2019.bigke.org/)
+   * [SIGIR](https://sigir.org/)
    * [SDM](http://icdm2019.bigke.org/)
    * [WWW](https://www2019.thewebconf.org/)
 - Artificial Intelligence
