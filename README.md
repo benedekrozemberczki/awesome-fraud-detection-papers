@@ -23,7 +23,7 @@ A curated list of papers about fraud detection from the following conferences:
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
-Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
 - **SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)**
