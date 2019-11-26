@@ -28,9 +28,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2019
 
 - **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)**
-  - XX
-  - [[Paper]](X)
-  - [[Code]](Y)
+  - Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi
+  - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/3884)
+  - [[Code]](https://github.com/librahu/HACUD)
 
 - **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
   - XX
