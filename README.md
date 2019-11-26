@@ -49,19 +49,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]](https://github.com/ILoveAI2019/OCAN)
   
 - **Uncovering Download Fraud Activities in Mobile App Markets (ASONAM 2019)**
-  - XX
-  - [[Paper]](X)
-  - [[Code]](Y)
+  - Yingtong Dou, Weijian Li, Zhirong Liu, Zhenhua Dong, Jiebo Luo, Philip S. Yu
+  - [[Paper]](https://arxiv.org/pdf/1907.03048.pdf)
 
 - **Spam Review Detection with Graph Convolutional Networks (CIKM 2019)**
-  - XX
-  - [[Paper]](X)
-  - [[Code]](Y)
+  - Ao Li, Zhou Qin, Runshi Liu, Yiqun Yang, Dong Li
+  - [[Paper]](https://arxiv.org/abs/1908.10679)
 
  - **Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
-  - XX
-  - [[Paper]](X)
-  - [[Code]](Y)
+  - Yiming Zhang, Yujie Fan, Yanfang Ye, Liang Zhao, Chuan Shi
+  - [[Paper]](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf)
   
 - **Spotting Collective Behaviour of Online Frauds in Customer Reviews (IJCAI 2019)**
   - Sarthika Dhawan, Siva Charan Reddy Gangireddy, Shiv Kumar, Tanmoy Chakraborty
@@ -69,9 +66,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]](https://github.com/LCS2-IIITD/DeFrauder)
   
 - **A semi-supervised Graph Attentive Network for Fraud Detection (ICDM 2019)**
-  - XX
+  - Daixin Wang, Jianbin Lin, Peng Cui, Quanhui Jia, Zhen Wang, Yanming Fang, Quan Yu, Jun Zhou, Shuang Yang, and Qi Yuan 
   - [[Paper]](X)
-  - [[Code]](Y)
 
 - **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
@@ -90,9 +86,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/pdf/1810.06230.pdf)
   
 - **FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System (WWW 2019)**
-  - XX
-  - [[Paper]](X)
-  - [[Code]](Y)
+  - Rui Wen, Jianyu Wang and Yu Huang
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=3316586)
 
 ## 2018
 - **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
