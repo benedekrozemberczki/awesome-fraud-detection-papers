@@ -26,6 +26,10 @@ A curated list of papers about fraud detection from the following conferences:
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
+
+Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)
+
+FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)
 - **SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)**
   - Panpan Zheng, Shuhan Yuan, Xintao Wu
   - [[Paper]](https://arxiv.org/abs/1809.04683v2)
@@ -36,10 +40,24 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1803.01798)
   - [[Code]](https://github.com/ILoveAI2019/OCAN)
   
+
+Uncovering Download Fraud Activities in Mobile App Markets (ASONAM 2019)
+
+
+Spam Review Detection with Graph Convolutional Networks (CIKM 2019)
+
+Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)
+  
 - **Spotting Collective Behaviour of Online Frauds in Customer Reviews (IJCAI 2019)**
   - Sarthika Dhawan, Siva Charan Reddy Gangireddy, Shiv Kumar, Tanmoy Chakraborty
   - [[Paper]](https://arxiv.org/abs/1905.13649)
   - [[Code]](https://github.com/LCS2-IIITD/DeFrauder)
+  
+
+
+
+A Semi-supervised Graph Attentive Network for Fraud Detection (ICDM 2019)
+
 
 - **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
@@ -56,6 +74,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **No Place to Hide: Catching Fraudulent Entities in Tensors (WWW 2019)**
   - Yikun Ban, Xin Liu, Ling Huang, Yitao Duan, Xue Liu, Wei Xu
   - [[Paper]](https://arxiv.org/pdf/1810.06230.pdf)
+  
+FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System (WWW 2019) 
 
 ## 2018
 - **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
