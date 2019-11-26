@@ -27,9 +27,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2019
 
-Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)
+- **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)**
+  - XX
+  - [[Paper]](X)
+  - [[Code]](Y)
 
-FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)
+- **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
+  - XX
+  - [[Paper]](X)
+  - [[Code]](Y)
+  
 - **SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)**
   - Panpan Zheng, Shuhan Yuan, Xintao Wu
   - [[Paper]](https://arxiv.org/abs/1809.04683v2)
@@ -40,24 +47,30 @@ FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)
   - [[Paper]](https://arxiv.org/abs/1803.01798)
   - [[Code]](https://github.com/ILoveAI2019/OCAN)
   
+- **Uncovering Download Fraud Activities in Mobile App Markets (ASONAM 2019)**
+  - XX
+  - [[Paper]](X)
+  - [[Code]](Y)
 
-Uncovering Download Fraud Activities in Mobile App Markets (ASONAM 2019)
+- **Spam Review Detection with Graph Convolutional Networks (CIKM 2019)**
+  - XX
+  - [[Paper]](X)
+  - [[Code]](Y)
 
-
-Spam Review Detection with Graph Convolutional Networks (CIKM 2019)
-
-Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)
+ - **Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
+  - XX
+  - [[Paper]](X)
+  - [[Code]](Y)
   
 - **Spotting Collective Behaviour of Online Frauds in Customer Reviews (IJCAI 2019)**
   - Sarthika Dhawan, Siva Charan Reddy Gangireddy, Shiv Kumar, Tanmoy Chakraborty
   - [[Paper]](https://arxiv.org/abs/1905.13649)
   - [[Code]](https://github.com/LCS2-IIITD/DeFrauder)
   
-
-
-
-A Semi-supervised Graph Attentive Network for Fraud Detection (ICDM 2019)
-
+- **A semi-supervised Graph Attentive Network for Fraud Detection (ICDM 2019)**
+  - XX
+  - [[Paper]](X)
+  - [[Code]](Y)
 
 - **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
@@ -75,7 +88,10 @@ A Semi-supervised Graph Attentive Network for Fraud Detection (ICDM 2019)
   - Yikun Ban, Xin Liu, Ling Huang, Yitao Duan, Xue Liu, Wei Xu
   - [[Paper]](https://arxiv.org/pdf/1810.06230.pdf)
   
-FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System (WWW 2019) 
+- **FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System (WWW 2019)**
+  - XX
+  - [[Paper]](X)
+  - [[Code]](Y)
 
 ## 2018
 - **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
