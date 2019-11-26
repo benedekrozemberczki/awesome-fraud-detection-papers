@@ -25,17 +25,18 @@ A curated list of papers about fraud detection from the following conferences:
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
-## 2019
+## 2020
 
+- **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
+  - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
+  - [[Paper]](https://bhooi.github.io/#publications)
+  - [[Code]](https://github.com/aplaceof/FlowScope)
+  
+## 2019
 - **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)**
   - Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi
   - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/3884)
   - [[Code]](https://github.com/librahu/HACUD)
-
-- **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
-  - XX
-  - [[Paper]](X)
-  - [[Code]](Y)
   
 - **SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)**
   - Panpan Zheng, Shuhan Yuan, Xintao Wu
