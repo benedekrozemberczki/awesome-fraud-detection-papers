@@ -134,17 +134,17 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Fraud Detection with Density Estimation Trees
   - [[Paper]](http://proceedings.mlr.press/v71/ram18a/ram18a.pdf)
 
-- **REV2: Fraudulent User Prediction in Rating Platforms (WSDM 2018)**
-  - Srijan Kumar, Bryan Hooi, Disha Makhija, Mohit Kumar, Christos Faloutsos, V. S. Subrahmanian
-  - [[Paper]](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf)
-
-- **Exposing Search and Advertisement Abuse Tactics and Infrastructure of Technical Support Scammers (WWW 2018)**
-  - Bharat Srinivasan, Athanasios Kountouras, Najmeh Miramirkhani, Monjur Alam, Nick Nikiforakis, Manos Antonakakis, Mustaque Ahamad
-  - [[Paper]](https://www.securitee.org/files/tss_www2018.pdf)
-
 - **Real-time Constrained Cycle Detection in Large Dynamic Graphs (VLDB 2018)**
   - Xiafei Qiu, Wubin Cen, Zhengping Qian, You Peng, Ying Zhang, Xuemin Lin, Jingren Zhou
   - [[Paper]](http://www.vldb.org/pvldb/vol11/p1876-qiu.pdf)
+  
+- **REV2: Fraudulent User Prediction in Rating Platforms (WSDM 2018)**
+  - Srijan Kumar, Bryan Hooi, Disha Makhija, Mohit Kumar, Christos Faloutsos, V. S. Subrahmanian
+  - [[Paper]](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf)
+  
+- **Exposing Search and Advertisement Abuse Tactics and Infrastructure of Technical Support Scammers (WWW 2018)**
+  - Bharat Srinivasan, Athanasios Kountouras, Najmeh Miramirkhani, Monjur Alam, Nick Nikiforakis, Manos Antonakakis, Mustaque Ahamad
+  - [[Paper]](https://www.securitee.org/files/tss_www2018.pdf)
 
 ## 2017
 
@@ -175,6 +175,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **GANG: Detecting Fraudulent Users in Online Social Networks via Guilt-by-Association on Directed Graphs (ICDM 2017)**
   - Binghui Wang, Neil Zhenqiang Gong, Hao Fu
   - [[Paper]](https://ieeexplore.ieee.org/document/8215519)
+  
+- **Improving Card Fraud Detection Through Suspicious Pattern Discovery (IEA/AIE 2017)**
+  - Fabian Braun, Olivier Caelen, Evgueni N. Smirnov, Steven Kelk, Bertrand Lebichot:
+  - [[Paper]](http://www.oliviercaelen.be/doc/GBSSCCFDS.pdf)
 
 - **Online Reputation Fraud Campaign Detection in User Ratings (IJCAI 2017)**
   - Chang Xu, Jie Zhang, Zhu Sun
@@ -192,14 +196,14 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Si Zhang, Dawei Zhou, Mehmet Yigit Yildirim, Scott Alcorn, Jingrui He, Hasan Davulcu, Hanghang Tong
   - [[Paper]](http://www.public.asu.edu/~hdavulcu/SDM17.pdf)
 
-- **Improving Card Fraud Detection Through Suspicious Pattern Discovery (IEA/AIE 2017)**
-  - Fabian Braun, Olivier Caelen, Evgueni N. Smirnov, Steven Kelk, Bertrand Lebichot:
-  - [[Paper]](http://www.oliviercaelen.be/doc/GBSSCCFDS.pdf)
-
 ## 2016
 - **A Fraud Resilient Medical Insurance Claim System (AAAI 2016)**
   - Yuliang Shi, Chenfei Sun, Qingzhong Li, Lizhen Cui, Han Yu, Chunyan Miao
   - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11813)
+
+- **A Graph-Based, Semi-Supervised, Credit Card Fraud Detection System (COMPLEX NETWORKS 2016)**
+  - Bertrand Lebichot, Fabian Braun, Olivier Caelen, Marco Saerens
+  - [[Paper]](http://www.oliviercaelen.be/doc/IEAAIE_2017_Finalversion-PDF_39.pdf)
 
 - **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage (KDD 2016)**
   - Bryan Hooi, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, Christos Faloutsos
@@ -220,10 +224,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Understanding the Detection of View Fraud in Video Content Portals (WWW 2016)**
   - Miriam Marciel, Rubén Cuevas, Albert Banchs, Roberto Gonzalez, Stefano Traverso, Mohamed Ahmed, Arturo Azcorra
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2882980)
-
-- **A graph-based, semi-supervised, credit card fraud detection system (COMPLEX NETWORKS 2016)**
-  - Bertrand Lebichot, Fabian Braun, Olivier Caelen, Marco Saerens
-  - [[Paper]](http://www.oliviercaelen.be/doc/IEAAIE_2017_Finalversion-PDF_39.pdf)
 
 ## 2015
 - **Toward An Intelligent Agent for Fraud Detection—The CFE Agent (AAAI 2015)**
