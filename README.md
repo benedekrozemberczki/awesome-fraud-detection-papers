@@ -138,6 +138,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Bharat Srinivasan, Athanasios Kountouras, Najmeh Miramirkhani, Monjur Alam, Nick Nikiforakis, Manos Antonakakis, Mustaque Ahamad
   - [[Paper]](https://www.securitee.org/files/tss_www2018.pdf)
 
+- **Real-time Constrained Cycle Detection in Large Dynamic Graphs (VLDB 2018)**
+  - Xiafei Qiu, Wubin Cen, Zhengping Qian, You Peng, Ying Zhang, Xuemin Lin, Jingren Zhou
+  - [[Paper]](http://www.vldb.org/pvldb/vol11/p1876-qiu.pdf)
+
 ## 2017
 
 - **Behavioral Analysis of Review Fraud: Linking Malicious Crowdsourcing to Amazon and Beyond (AAAI 2017)**
@@ -184,6 +188,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Si Zhang, Dawei Zhou, Mehmet Yigit Yildirim, Scott Alcorn, Jingrui He, Hasan Davulcu, Hanghang Tong
   - [[Paper]](http://www.public.asu.edu/~hdavulcu/SDM17.pdf)
 
+- **Improving Card Fraud Detection Through Suspicious Pattern Discovery (IEA/AIE 2017)**
+  - Fabian Braun, Olivier Caelen, Evgueni N. Smirnov, Steven Kelk, Bertrand Lebichot:
+  - [[Paper]](http://www.oliviercaelen.be/doc/GBSSCCFDS.pdf)
+
 ## 2016
 - **A Fraud Resilient Medical Insurance Claim System (AAAI 2016)**
   - Yuliang Shi, Chenfei Sun, Qingzhong Li, Lizhen Cui, Han Yu, Chunyan Miao
@@ -208,6 +216,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Understanding the Detection of View Fraud in Video Content Portals (WWW 2016)**
   - Miriam Marciel, Rubén Cuevas, Albert Banchs, Roberto Gonzalez, Stefano Traverso, Mohamed Ahmed, Arturo Azcorra
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2882980)
+
+- **A graph-based, semi-supervised, credit card fraud detection system (COMPLEX NETWORKS 2016)**
+  - Bertrand Lebichot, Fabian Braun, Olivier Caelen, Marco Saerens
+  - [[Paper]](http://www.oliviercaelen.be/doc/IEAAIE_2017_Finalversion-PDF_39.pdf)
 
 ## 2015
 - **Toward An Intelligent Agent for Fraud Detection—The CFE Agent (AAAI 2015)**
