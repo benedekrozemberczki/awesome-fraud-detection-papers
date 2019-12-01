@@ -293,23 +293,23 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Leman Akoglu, Rishi Chandy, Christos Faloutsos
   - [[Paper]](https://www.researchgate.net/publication/279905898_Opinion_fraud_detection_in_online_reviews_by_network_effects)
   
-- **Using social network knowledge for detecting spider constructions in social security fraud (ASONAM 2013)**
+- **Using Social Network Knowledge for Detecting Spider Constructions in Social Security Fraud (ASONAM 2013)**
   - Véronique Van Vlasselaer, Jan Meskens, Dries Van Dromme, Bart Baesens 
   - [[Paper]](https://ieeexplore.ieee.org/document/6785796)
   
-- **Ranking fraud detection for mobile apps: a holistic view (CIKM 2013)**
+- **Ranking Fraud Detection for Mobile Apps: a Holistic View (CIKM 2013)**
   - Hengshu Zhu, Hui Xiong, Yong Ge, Enhong Chen
   - [[Paper]](http://dm.ustc.edu.cn/zhu-cikm13.pdf)
 
-- **Using co-visitation networks for detecting large scale online display advertising exchange fraud (KDD 2013)**
+- **Using Co-Visitation Networks for Detecting Large Scale Online Display Advertising Exchange Fraud (KDD 2013)**
   - Ori Stitelman, Claudia Perlich, Brian Dalessandro, Rod Hook, Troy Raeder, Foster J. Provost
   - [[Paper]](http://chbrown.github.io/kdd-2013-usb/kdd/p1240.pdf)
 
-- **Adaptive adversaries: building systems to fight fraud and cyber intruders (KDD 2013)**
+- **Adaptive Adversaries: Building Systems to Fight Fraud and Cyber Intruders (KDD 2013)**
   - Ari Gesher
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2491134)
 
-- **Anomaly, event, and fraud detection in large network datasets (WSDM 2013)**
+- **Anomaly, Event, and Fraud Detection in Large Network Datasets (WSDM 2013)**
   - Leman Akoglu, Christos Faloutsos
   - [[Paper]](https://www.andrew.cmu.edu/user/lakoglu/wsdm13/13-wsdm-tutorial.pdf)
 
