@@ -315,16 +315,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2012
 
-- **Fraud detection: Methods of analysis for hypergraph data (ASONAM 2012)**
+- **Fraud Detection: Methods of Analysis for Hypergraph Data (ASONAM 2012)**
   - Anna Leontjeva, Konstantin Tretyakov, Jaak Vilo, and Taavi Tamkivi
   - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6425618)
 
-- **Online modeling of proactive moderation system for auction fraud detection (WWW 2012)**
+- **Online Modeling of Proactive Moderation System for Auction Fraud Detection (WWW 2012)**
   - Liang Zhang, Jie Yang, Belle L. Tseng
   - [[Paper]](http://www.chennaisunday.com/Java%202012%20Base%20Paper/Online%20Modeling%20of%20Proactive%20Moderation%20System%20for%20Auction%20Fraud%20Detection.pdf)
 
 ## 2011
-- **A machine-learned proactive moderation system for auction fraud detection (CIKM 2011)**
+- **A Machine-Learned Proactive Moderation System for Auction Fraud Detection (CIKM 2011)**
   - Liang Zhang, Jie Yang, Wei Chu, Belle L. Tseng
   - [[Paper]](http://www.gatsby.ucl.ac.uk/~chuwei/paper/p2501-zhang.pdf)
 
@@ -336,22 +336,22 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Luís Torgo, Elsa Lopes
   - [[Paper]](https://www.ijcai.org/Proceedings/11/Papers/255.pdf)
 
-- **A pattern discovery approach to retail fraud detection (KDD 2011)**
+- **A Pattern Discovery Approach to Retail Fraud Detection (KDD 2011)**
   - Prasad Gabbur, Sharath Pankanti, Quanfu Fan, Hoang Trinh
   - [[Paper]](http://www2.engr.arizona.edu/~pgsangam/gabbur_kdd_11.pdf)
 
 ## 2010
 
-- **Hunting for the black swan: risk mining from text (ACL 2010)**
+- **Hunting for the Black Swan: Risk Mining from Text (ACL 2010)**
   - JL Leidner, F Schilder
   - [[Paper]](https://www.aclweb.org/anthology/P10-4010)
   
-- **Fraud detection by generating positive samples for classification from unlabeled data (ACL 2010)**
+- **Fraud Detection by Generating Positive Samples for Classification from Unlabeled Data (ACL 2010)**
   - Levente Kocsis, Andras George
   - [[Paper]](http://www.szit.bme.hu/~gya/publications/KocsisGyorgy.pdf)
   
 ## 2009
-- **SVM-based credit card fraud detection with reject cost and class-dependent error cost (PAKDD 2009)**
+- **SVM-based Credit Card Fraud Detection with Reject Cost and Class-Dependent Error Cost (PAKDD 2009)**
   - En-hui Zheng,Chao Zou,Jian Sun, Le Chen
   - [[Paper]](https://www.semanticscholar.org/paper/SVM-Based-Cost-sensitive-Classification-Algorithm-Zheng-Zou/bcae06626ccd453925ef040a1edb5cbb10b862ef)
   
@@ -382,7 +382,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Stephen Bay, Krishna Kumaraswamy, Markus G. Anderle, Rohit Kumar, David M. Steier 
   - [[Paper]](https://ieeexplore.ieee.org/document/4053036)
   
-- **Camouflaged fraud detection in domains with complex relationships (KDD 2006)**
+- **Camouflaged Fraud Detection in Domains with Complex Relationships (KDD 2006)**
   - Sankar Virdhagriswaran, Gordon Dakin
   - [[Paper]](https://dl.acm.org/citation.cfm?id=1150532)
 
