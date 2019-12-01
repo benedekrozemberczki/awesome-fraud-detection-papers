@@ -419,7 +419,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://pdfs.semanticscholar.org/9124/b61d48b7e52008c7fd5fac1b7eac38474581.pdf)
   
 ## 1999
-- **Statistical challenges to inductive inference in linked data. (AISTATS 1999)**
+- **Statistical Challenges to Inductive Inference in Linked Data. (AISTATS 1999)**
   - David Jensen
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.589.1445&rep=rep1&type=pdf)
 
