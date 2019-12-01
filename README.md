@@ -60,7 +60,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Ao Li, Zhou Qin, Runshi Liu, Yiqun Yang, Dong Li
   - [[Paper]](https://arxiv.org/abs/1908.10679)
 
- - **Key Player Identification in Underground Forums over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
+ - **Key Player Identification in Underground Forums Over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
   - Yiming Zhang, Yujie Fan, Yanfang Ye, Liang Zhao, Chuan Shi
   - [[Paper]](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf)
   
@@ -209,7 +209,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Bryan Hooi, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, Christos Faloutsos
   - [[Paper]](https://www.andrew.cmu.edu/user/bhooi/papers/fraudar_kdd16.pdf)
   
-- **Identifying anomalies in graph streams using change detection (KDD 2016)**
+- **Identifying Anomalies in Graph Streams Using Change Detection (KDD 2016)**
   - William Eberle and Lawrence Holde
   - [[Paper]](http://www.mlgworkshop.org/2016/paper/MLG2016_paper_12.pdf)
 
