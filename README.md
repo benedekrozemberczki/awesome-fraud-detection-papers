@@ -414,7 +414,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://pdfs.semanticscholar.org/9124/b61d48b7e52008c7fd5fac1b7eac38474581.pdf)
 
 ## 2000
-- **Document classification and visualisation to support the investigation of suspected fraud (PKDD 2000)**
+- **Document Classification and Visualisation to Support the Investigation of Suspected Fraud (PKDD 2000)**
   - Johan Hagman, Domenico Perrotta, Ralf Steinberger, and Aristi de Varfis
   - [[Paper]](https://pdfs.semanticscholar.org/9124/b61d48b7e52008c7fd5fac1b7eac38474581.pdf)
   
