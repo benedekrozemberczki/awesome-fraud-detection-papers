@@ -360,7 +360,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.325.3231&rep=rep1&type=pdf)
   
 ## 2007
-- **Relational data pre-processing techniques for improved securities fraud detection (KDD 2007)**
+- **Relational Data Pre-Processing Techniques for Improved Securities Fraud Detection (KDD 2007)**
   - Andrew S. Fast, Lisa Friedland, Marc E. Maier, Brian J. Taylor, David D. Jensen, Henry G. Goldberg, John Komoroske
   - [[Paper]](https://dl.acm.org/citation.cfm?id=1281192.1281293)
 
@@ -368,13 +368,13 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Fletcher Lu
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-74976-9_56)
 
-- **Netprobe: a fast and scalable system for fraud detection in online auction networks (WWW 2007)**
+- **Netprobe: A Fast and Scalable System for Fraud Detection in Online Auction Networks (WWW 2007)**
   - Shashank Pandit, Duen Horng Chau, Samuel Wang, Christos Faloutsos
   - [[Paper]](http://www.cs.cmu.edu/~christos/PUBLICATIONS/netprobe-www07.pdf)
 
 ## 2006
 
-- **Data mining approaches to criminal career analysis (ICDM 2006)**
+- **Data Mining Approaches to Criminal Career Analysis (ICDM 2006)**
   - Jeroen S. De Bruin, Tim K. Cocx, Walter A. Kosters, Jeroen F. J. Laros, Joost N. Kok 
   - [[Paper]](https://ieeexplore.ieee.org/document/4053045)
   
