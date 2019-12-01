@@ -226,7 +226,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2882980)
 
 ## 2015
-- **Toward An Intelligent Agent for Fraud Detection—The CFE Agent (AAAI 2015)**
+- **Toward An Intelligent Agent for Fraud Detection — The CFE Agent (AAAI 2015)**
   - Joe Johnson
   - [[Paper]](https://www.aaai.org/ocs/index.php/FSS/FSS15/paper/download/11664/11485)
   
@@ -258,7 +258,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Vincent S. Tseng, Jia-Ching Ying, Che-Wei Huang, Yimin Kao, Kuan-Ta Chen
   - [[Paper]](http://repository.ncku.edu.tw/bitstream/987654321/166322/1/4010204000-000004_1.pdf)
   
-- **A Framework for intrusion detection based on frequent subgraph mining (SDM 2015)**
+- **A Framework for Intrusion Detection Based on Frequent Subgraph Mining (SDM 2015)**
   - Vitali Herrera-Semenets, Niusvel Acosta-Mendoza, Andres Gago-Alonso
   - [[Paper]](https://www.researchgate.net/publication/271839253_A_Framework_for_Intrusion_Detection_based_on_Frequent_Subgraph_Mining)
 
