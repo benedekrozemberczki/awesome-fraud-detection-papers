@@ -404,12 +404,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Fletcher Lu, J. Efrim Boritz
   - [[Paper]](https://faculty.uoit.ca/fletcherlu/LuECML05.pdf)
 
-- **Using relational knowledge discovery to prevent securities fraud (KDD 2005)**
+- **Using Relational Knowledge Discovery to Prevent Securities Fraud (KDD 2005)**
   - Jennifer Neville, Özgür Simsek, David D. Jensen, John Komoroske, Kelly Palmer, Henry G. Goldberg
   - [[Paper]](https://www.cs.purdue.edu/homes/neville/papers/neville-et-al-kdd2005.pdf)
 
 ## 2003
-- **Applying data mining in investigating money laundering crimes (KDD 2003)**
+- **Applying Data Mining in Investigating Money Laundering Crimes (KDD 2003)**
   - Zhongfei (Mark) Zhang, John J. Salerno, Philip S. Yu
   - [[Paper]](https://pdfs.semanticscholar.org/9124/b61d48b7e52008c7fd5fac1b7eac38474581.pdf)
 
