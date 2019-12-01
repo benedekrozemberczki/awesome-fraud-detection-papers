@@ -443,7 +443,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - David Jensen
   - [[Paper]](https://pdfs.semanticscholar.org/0efe/8a145cc4d52e8769bb1d13142326a154624f.pdf)
   
-- **Credit card fraud detection using meta-learning: Issues and initial results (AAAI 1997)**
+- **Credit Card Fraud Detection Using Meta-Learning: Issues and Initial Results (AAAI 1997)**
   - Salvatore J. Stolfo, David W. Fan, Wenke Lee and Andreas L. Prodromidis
   - [[Paper]](https://pdfs.semanticscholar.org/29b3/e330e0045e5da71cc1d333bed24b7a4670f8.pdf)
 
