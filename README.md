@@ -271,7 +271,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Xin Li, Yiqun Liu, Min Zhang, Shaoping Ma
   - [[Paper]](https://pdfs.semanticscholar.org/2733/1f48c87736ea12b9edec062e384d3bd58f88.pdf)
 
-- **Corporate residence fraud detection (KDD 2014)**
+- **Corporate Residence Fraud Detection (KDD 2014)**
   - Enric Junqué de Fortuny, Marija Stankova, Julie Moeyersoms, Bart Minnaert, Foster J. Provost, David Martens
   - [[Paper]](http://delivery.acm.org/10.1145/2630000/2623333/p1650-fortuny.pdf?ip=129.215.164.203&id=2623333&acc=ACTIVE%20SERVICE&key=C2D842D97AC95F7A%2EEB9E991028F4E1F1%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559048806_f1a6f763ef7088a4fb4b1a4ff94856f8)
 
@@ -283,13 +283,13 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Alejandro Correa Bahnsen, Aleksandar Stojanovic, Djamila Aouada, Björn E. Ottersten
   - [[Paper]](https://pdfs.semanticscholar.org/9241/ef2a2f6638eafeffd0056736c0f46f9aa083.pdf)
 
-- **Large graph mining: patterns, cascades, fraud detection, and algorithms (WWW 2014)**
+- **Large Graph Mining: Patterns, Cascades, Fraud Detection, and Algorithms (WWW 2014)**
   - Christos Faloutsos
   - [[Paper]](http://wwwconference.org/proceedings/www2014/proceedings/p1.pdf)
   
 ## 2013
 
-- **Opinion fraud detection in online reviews by network effects (AAAI 2013)**
+- **Opinion Fraud Detection in Online Reviews by Network Effects (AAAI 2013)**
   - Leman Akoglu, Rishi Chandy, Christos Faloutsos
   - [[Paper]](https://www.researchgate.net/publication/279905898_Opinion_fraud_detection_in_online_reviews_by_network_effects)
   
