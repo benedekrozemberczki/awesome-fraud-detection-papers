@@ -9,6 +9,7 @@ A curated list of papers about fraud detection from the following conferences:
 
 - Network Science
    * [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
+   * [COMPLEX NETWORKS](https://www.complexnetworks.org/)
 - Natural Language Processing
    * [ACL](http://www.acl2019.org/EN/index.xhtml)
 - Data Mining
@@ -17,11 +18,14 @@ A curated list of papers about fraud detection from the following conferences:
    * [SIGIR](https://sigir.org/)
    * [SDM](https://www.siam.org/conferences/cm/conference/sdm20)
    * [WWW](https://www2019.thewebconf.org/)
+   * [CIKM](http://www.cikmconference.org/)
 - Artificial Intelligence
    * [AAAI](https://www.aaai.org/)
    * [AISTATS](http://www.auai.org/)
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
+- Databases
+   * [VLDB](http://www.vldb.org/)
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
