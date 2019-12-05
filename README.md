@@ -61,15 +61,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1908.10679)
 
  - **Key Player Identification in Underground Forums Over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
-  - Yiming Zhang, Yujie Fan, Yanfang Ye, Liang Zhao, Chuan Shi
-  - [[Paper]](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf)
+   - Yiming Zhang, Yujie Fan, Yanfang Ye, Liang Zhao, Chuan Shi
+   - [[Paper]](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf)
   
 - **Spotting Collective Behaviour of Online Frauds in Customer Reviews (IJCAI 2019)**
   - Sarthika Dhawan, Siva Charan Reddy Gangireddy, Shiv Kumar, Tanmoy Chakraborty
   - [[Paper]](https://arxiv.org/abs/1905.13649)
   - [[Code]](https://github.com/LCS2-IIITD/DeFrauder)
   
-- **A semi-supervised Graph Attentive Network for Fraud Detection (ICDM 2019)**
+- **A Semi-Supervised Graph Attentive Network for Fraud Detection (ICDM 2019)**
   - Daixin Wang, Jianbin Lin, Peng Cui, Quanhui Jia, Zhen Wang, Yanming Fang, Quan Yu, Jun Zhou, Shuang Yang, and Qi Yuan 
   - [[Paper]](X)
 
