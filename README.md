@@ -10,6 +10,8 @@ A curated list of papers about fraud detection from the following conferences:
 - Network Science
    * [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
    * [COMPLEX NETWORKS](https://www.complexnetworks.org/)
+- Data Science
+   * [DSAA](http://dsaa2019.dsaa.co/)
 - Natural Language Processing
    * [ACL](http://www.acl2019.org/EN/index.xhtml)
 - Data Mining
@@ -37,6 +39,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]](https://github.com/aplaceof/FlowScope)
   
 ## 2019
+- **SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs (DSAA 2019)**
+  - Hamed Nilforoshan, Neil Shah
+  - [[Paper]](https://arxiv.org/abs/1908.07087)
+  - [[Code]](https://github.com/hamedn/SliceNDice)
+
+- **FARE: Schema-Agnostic Anomaly Detection in Social Event Logs (DSAA 2019)**
+  - Neil Shah
+  - [[Paper]](http://nshah.net/publications/FARE.DSAA.19.pdf)
+  
 - **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)**
   - Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi
   - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/3884)
