@@ -92,6 +92,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)**
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
   - [[Paper]](https://dl.acm.org/citation.cfm?id=3331372)
+  
+- **A Contrast Metric for Fraud Detection in Rich Graphs (TKDE 2019)**
+  - Shenghua Liu, Bryan Hooi, Christos Faloutsos
+  - [[Paper]](https://shenghua-liu.github.io/papers/tkde2019-constrastsusp_holoscope.pdf)
 
 - **Think Outside the Dataset: Finding Fraudulent Reviews using Cross-Dataset Analysis (WWW 2019)**
   - Shirin Nilizadeh, Hojjat Aghakhani, Eric Gustafson, Christopher Kruegel, Giovanni Vigna
