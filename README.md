@@ -74,6 +74,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
  - **Key Player Identification in Underground Forums Over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
    - Yiming Zhang, Yujie Fan, Yanfang Ye, Liang Zhao, Chuan Shi
    - [[Paper]](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf)
+   
+- **CatchCore: Catching Hierarchical Dense Subtensor (ECML-PKDD 2019)**
+  -  Wenjie Feng, Shenghua Liu, Huawei Shen, and Xueqi Cheng
+  - [[Paper]](https://shenghua-liu.github.io/papers/pkdd2019-catchcore.pdf)
+  - [[Code]](https://github.com/wenchieh/catchcore)
   
 - **Spotting Collective Behaviour of Online Frauds in Customer Reviews (IJCAI 2019)**
   - Sarthika Dhawan, Siva Charan Reddy Gangireddy, Shiv Kumar, Tanmoy Chakraborty
