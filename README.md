@@ -87,7 +87,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **A Semi-Supervised Graph Attentive Network for Fraud Detection (ICDM 2019)**
   - Daixin Wang, Jianbin Lin, Peng Cui, Quanhui Jia, Zhen Wang, Yanming Fang, Quan Yu, Jun Zhou, Shuang Yang, and Qi Yuan 
-  - [[Paper]](X)
+  - [[Paper]](https://arxiv.org/abs/2003.01171)
  
 - **EigenPulse: Detecting Surges in Large Streaming Graphs with Row Augmentation (PAKDD 2019)**
   - Jiabao Zhang, Shenghua Liu, Wenjian Yu, Wenjie Feng, Xueqi Cheng
