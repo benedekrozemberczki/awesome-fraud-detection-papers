@@ -35,7 +35,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
   - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
-  - [[Paper]](https://bhooi.github.io/#publications)
+  - [[Paper]](  https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
   - [[Code]](https://github.com/aplaceof/FlowScope)
   
 ## 2019
