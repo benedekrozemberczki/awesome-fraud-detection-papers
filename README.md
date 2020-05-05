@@ -33,9 +33,26 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2020
 
+- **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection (SIGIR 2020)**
+  - Zhiwei Liu, Yingtong Dou, Philip S. Yu, Yutong Deng, Hao Peng
+  - [[Paper]](https://arxiv.org/abs/2005.00625)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
+  
+- **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks (WWW 2020)**
+  - Adam Breuer, Roee Eilat, Udi Weinsberg
+  - [[Paper]](https://arxiv.org/abs/2004.04834)
+
+- **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020)**
+  - Qiwei Zhong, Yang Liu, Xiang Ao, Binbin Hu, Jinghua Feng, Jiayu Tang, Qing He
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)
+
+- **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks (WWW 2020)**
+  - Rui Wen, Jianyu Wang, Chunming Wu, Jian Xiong
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3366424.3391266)
+
 - **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
   - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
-  - [[Paper]](  https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
+  - [[Paper]](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
   - [[Code]](https://github.com/aplaceof/FlowScope)
   
 ## 2019
@@ -52,6 +69,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi
   - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/3884)
   - [[Code]](https://github.com/librahu/HACUD)
+  
+- **GeniePath: Graph Neural Networks with Adaptive Receptive Paths (AAAI 2019)**
+  - Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi
+  - [[Paper]](https://arxiv.org/abs/1802.00910)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
   
 - **SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)**
   - Panpan Zheng, Shuhan Yuan, Xintao Wu
@@ -70,10 +92,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Spam Review Detection with Graph Convolutional Networks (CIKM 2019)**
   - Ao Li, Zhou Qin, Runshi Liu, Yiqun Yang, Dong Li
   - [[Paper]](https://arxiv.org/abs/1908.10679)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
 
- - **Key Player Identification in Underground Forums Over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
+- **Key Player Identification in Underground Forums Over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
    - Yiming Zhang, Yujie Fan, Yanfang Ye, Liang Zhao, Chuan Shi
    - [[Paper]](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf)
+   - [[Code]](https://github.com/safe-graph/DGFraud)
    
 - **CatchCore: Catching Hierarchical Dense Subtensor (ECML-PKDD 2019)**
   -  Wenjie Feng, Shenghua Liu, Huawei Shen, and Xueqi Cheng
@@ -88,6 +112,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **A Semi-Supervised Graph Attentive Network for Fraud Detection (ICDM 2019)**
   - Daixin Wang, Jianbin Lin, Peng Cui, Quanhui Jia, Zhen Wang, Yanming Fang, Quan Yu, Jun Zhou, Shuang Yang, and Qi Yuan 
   - [[Paper]](https://arxiv.org/abs/2003.01171)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
  
 - **EigenPulse: Detecting Surges in Large Streaming Graphs with Row Augmentation (PAKDD 2019)**
   - Jiabao Zhang, Shenghua Liu, Wenjian Yu, Wenjie Feng, Xueqi Cheng
@@ -116,8 +141,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System (WWW 2019)**
   - Rui Wen, Jianyu Wang and Yu Huang
   - [[Paper]](https://dl.acm.org/citation.cfm?id=3316586)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
 
 ## 2018
+
+- **Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018)**
+  - Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, and Le Song
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3269206.3272010)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
+  
 - **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
   - Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang
   - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16650)
@@ -165,6 +197,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **REV2: Fraudulent User Prediction in Rating Platforms (WSDM 2018)**
   - Srijan Kumar, Bryan Hooi, Disha Makhija, Mohit Kumar, Christos Faloutsos, V. S. Subrahmanian
   - [[Paper]](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf)
+  - [[Code]](https://cs.stanford.edu/~srijan/rev2/)
   
 - **Exposing Search and Advertisement Abuse Tactics and Infrastructure of Technical Support Scammers (WWW 2018)**
   - Bharat Srinivasan, Athanasios Kountouras, Najmeh Miramirkhani, Monjur Alam, Nick Nikiforakis, Manos Antonakakis, Mustaque Ahamad
