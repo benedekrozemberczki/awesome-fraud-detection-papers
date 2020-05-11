@@ -55,6 +55,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
   - [[Code]](https://github.com/aplaceof/FlowScope)
   
+- **Modeling Users' Behavior Sequences with Hierarchical Explainable Network for Cross-domain Fraud Detection (WWW 2020)**
+  - Yongchun Zhu, Dongbo Xi, Bowen Song, Fuzhen Zhuang, Shuai Chen, Xi Gu, Qing He
+  - [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380172)
+  
 ## 2019
 - **SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs (DSAA 2019)**
   - Hamed Nilforoshan, Neil Shah
