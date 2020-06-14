@@ -33,6 +33,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2020
 
+- **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
+  - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Modeling Users: Behavior Sequences with Hierarchical Explainable Network for Cross-domain Fraud Detection (WWW 2020)**
+  - Yongchun Zhu, Dongbo Xi, Bowen Song, Fuzhen Zhuang, Shuai Chen, Xi Gu, Qing He
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
   - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
   - [[Paper]](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
