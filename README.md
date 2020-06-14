@@ -37,11 +37,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
   - [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AISI-ChengD.87.pdf)
 
-- **Modeling Users: Behavior Sequences with Hierarchical Explainable Network for Cross-domain Fraud Detection (WWW 2020)**
-  - Yongchun Zhu, Dongbo Xi, Bowen Song, Fuzhen Zhuang, Shuai Chen, Xi Gu, Qing He
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
   - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
   - [[Paper]](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
