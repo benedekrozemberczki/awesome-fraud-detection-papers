@@ -33,6 +33,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2020
 
+- **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
+  - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
+  - [[Paper]](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
+  - [[Code]](https://github.com/aplaceof/FlowScope)
+ 
 - **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection (SIGIR 2020)**
   - Zhiwei Liu, Yingtong Dou, Philip S. Yu, Yutong Deng, Hao Peng
   - [[Paper]](https://arxiv.org/abs/2005.00625)
@@ -49,11 +54,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **ASA: Adversary Situation Awareness via Heterogeneous Graph Convolutional Networks (WWW 2020)**
   - Rui Wen, Jianyu Wang, Chunming Wu, Jian Xiong
   - [[Paper]](https://dl.acm.org/doi/10.1145/3366424.3391266)
-
-- **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
-  - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
-  - [[Paper]](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
-  - [[Code]](https://github.com/aplaceof/FlowScope)
   
 - **Modeling Users' Behavior Sequences with Hierarchical Explainable Network for Cross-domain Fraud Detection (WWW 2020)**
   - Yongchun Zhu, Dongbo Xi, Bowen Song, Fuzhen Zhuang, Shuai Chen, Xi Gu, Qing He
