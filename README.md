@@ -35,8 +35,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AISI-ChengD.87.pdf)
 
 - **Modeling Users: Behavior Sequences with Hierarchical Explainable Network for Cross-domain Fraud Detection (WWW 2020)**
   - Yongchun Zhu, Dongbo Xi, Bowen Song, Fuzhen Zhuang, Shuai Chen, Xi Gu, Qing He
