@@ -33,6 +33,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2020
 
+- **Robust Spammer Detection by Nash Reinforcement Learning (KDD 2020)**
+  - Yingtong Dou, Guixiang Ma, Philip S. Yu, Sihong Xie
+  - [[Paper]](https://arxiv.org/abs/2006.06069)
+  - [[Code]](https://github.com/YingtongDou/Nash-Detect)
+  
 - **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
   - [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AISI-ChengD.87.pdf)
