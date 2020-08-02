@@ -58,12 +58,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Federated Meta-Learning for Fraudulent Credit Card Detection (IJCAI 2020)**
   - Wenbo Zheng, Lan Yan, Chao Gou, Fei-Yue Wang
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/642)
-  - [[Code]]( )
 
 - **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020)**
   - Shijie Zhang, Hongzhi Yin, Tong Chen, Quoc Viet Nguyen Hung, Zi Huang, Lizhen Cui
   - [[Paper]](https://arxiv.org/abs/2005.10150)
-  - [[Code]]( )
  
 - **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection (SIGIR 2020)**
   - Zhiwei Liu, Yingtong Dou, Philip S. Yu, Yutong Deng, Hao Peng
