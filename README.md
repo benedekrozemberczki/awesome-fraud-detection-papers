@@ -62,7 +62,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020)**
   - Shijie Zhang, Hongzhi Yin, Tong Chen, Quoc Viet Nguyen Hung, Zi Huang, Lizhen Cui
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/2005.10150)
   - [[Code]]( )
  
 - **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection (SIGIR 2020)**
