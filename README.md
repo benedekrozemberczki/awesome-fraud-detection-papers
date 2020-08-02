@@ -46,6 +46,25 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
   - [[Paper]](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
   - [[Code]](https://github.com/aplaceof/FlowScope)
+  
+- **Collaboration Based Multi-Label Propagation for Fraud Detection (IJCAI 2020)**
+  - Haobo Wang, Zhao Li, Jiaming Huang, Pengrui Hui, Weiwei Liu, Tianlei Hu, Gang Chen
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/343)
+
+- **The Behavioral Sign of Account Theft: Realizing Online Payment Fraud Alert (IJCAI 2020)**
+  - Cheng Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Federated Meta-Learning for Fraudulent Credit Card Detection (IJCAI 2020)**
+  - Wenbo Zheng, Lan Yan, Chao Gou, Fei-Yue Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020)**
+  - Shijie Zhang, Hongzhi Yin, Tong Chen, Quoc Viet Nguyen Hung, Zi Huang, Lizhen Cui
+  - [[Paper]]( )
+  - [[Code]]( )
  
 - **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection (SIGIR 2020)**
   - Zhiwei Liu, Yingtong Dou, Philip S. Yu, Yutong Deng, Hao Peng
