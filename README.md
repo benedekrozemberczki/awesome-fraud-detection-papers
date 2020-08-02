@@ -53,8 +53,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **The Behavioral Sign of Account Theft: Realizing Online Payment Fraud Alert (IJCAI 2020)**
   - Cheng Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/0636.pdf)
 
 - **Federated Meta-Learning for Fraudulent Credit Card Detection (IJCAI 2020)**
   - Wenbo Zheng, Lan Yan, Chao Gou, Fei-Yue Wang
