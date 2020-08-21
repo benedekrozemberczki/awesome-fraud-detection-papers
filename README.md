@@ -33,6 +33,24 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2020
 
+- **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (CIKM 2020)**
+  - Yingtong Dou, Zhiwei Liu, Li Sun, Yutong Deng, Hao Peng, Philip S. Yu
+  - [[Paper]](https://arxiv.org/abs/2008.08692)
+  - [[Code]](https://github.com/YingtongDou/CARE-GNN)
+
+- **Loan Default Analysis with Multiplex Graph Learning (CIKM 2020)**
+  - Binbin Hu, Zhiqiang Zhang, Jun Zhou, Jingli Fang, Quanhui Jia, Yanming Fang, Quan Yu, Yuan Qi
+  - [[Paper]](https://www.researchgate.net/publication/343626706_Loan_Default_Analysis_with_Multiplex_Graph_Learning)
+
+- **Error-Bounded Graph Anomaly Loss for GNNs (CIKM 2020)**
+  - Tong Zhao, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, Meng Jiang
+  - [[Paper]](http://www.meng-jiang.com/pubs/gal-cikm20/gal-cikm20-paper.pdf)
+  - [[Code]](https://github.com/zhao-tong/Graph-Anomaly-Loss)
+
+- **Early Fraud Detection with Augmented Graph Learning (DLG@KDD 2020)**
+  - Tong Zhao, Bo Ni, Wenhao Yu, Meng Jiang
+  - [[Paper]](http://www.meng-jiang.com/pubs/earlyfraud-dlg20/earlyfraud-dlg20-paper.pdf)
+
 - **Robust Spammer Detection by Nash Reinforcement Learning (KDD 2020)**
   - Yingtong Dou, Guixiang Ma, Philip S. Yu, Sihong Xie
   - [[Paper]](https://arxiv.org/abs/2006.06069)
@@ -97,7 +115,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)**
   - Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi
   - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/3884)
-  - [[Code]](https://github.com/librahu/HACUD)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
   
 - **GeniePath: Graph Neural Networks with Adaptive Receptive Paths (AAAI 2019)**
   - Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi
@@ -233,6 +251,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.securitee.org/files/tss_www2018.pdf)
 
 ## 2017
+- **ZooBP: Belief Propagation for Heterogeneous Networks (VLDB 2017)**
+  - Dhivya Eswaran, Stephan Gunnemann, Christos Faloutsos, Disha Makhija, Mohit Kumar
+  - [[Paper]](http://www.vldb.org/pvldb/vol10/p625-eswaran.pdf)
+  - [[Code]](https://github.com/safe-graph/UGFraud)
 
 - **Behavioral Analysis of Review Fraud: Linking Malicious Crowdsourcing to Amazon and Beyond (AAAI 2017)**
   - Parisa Kaghazgaran, James Caverlee, Majid Alfifi
@@ -261,6 +283,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **GANG: Detecting Fraudulent Users in Online Social Networks via Guilt-by-Association on Directed Graphs (ICDM 2017)**
   - Binghui Wang, Neil Zhenqiang Gong, Hao Fu
   - [[Paper]](https://ieeexplore.ieee.org/document/8215519)
+  - [[Code]](https://github.com/safe-graph/UGFraud)
   
 - **Improving Card Fraud Detection Through Suspicious Pattern Discovery (IEA/AIE 2017)**
   - Fabian Braun, Olivier Caelen, Evgueni N. Smirnov, Steven Kelk, Bertrand Lebichot:
@@ -294,6 +317,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage (KDD 2016)**
   - Bryan Hooi, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, Christos Faloutsos
   - [[Paper]](https://www.andrew.cmu.edu/user/bhooi/papers/fraudar_kdd16.pdf)
+  - [[Code]](https://github.com/safe-graph/UGFraud)
   
 - **Identifying Anomalies in Graph Streams Using Change Detection (KDD 2016)**
   - William Eberle and Lawrence Holde
@@ -336,6 +360,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Yongfeng Zhang, Yunzhi Tan, Min Zhang, Yiqun Liu, Tat-Seng Chua, Shaoping Ma
   - [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/341.pdf)
 
+- **Collective Opinion Spam Detection: Bridging Review Networks and Metadata (KDD 2015)**
+  - Shebuti Rayana, Leman Akoglu
+  - [[Paper]](https://www.andrew.cmu.edu/user/lakoglu/pubs/15-kdd-collectiveopinionspam.pdf)
+  - [[Code]](https://github.com/safe-graph/UGFraud)
+
 - **Graph-Based User Behavior Modeling: From Prediction to Fraud Detection (KDD 2015)**
   - Alex Beutel, Leman Akoglu, Christos Faloutsos
   - [[Paper]](https://www.cs.cmu.edu/~abeutel/kdd2015_tutorial/tutorial.pdf)
@@ -353,6 +382,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](http://www.www2015.it/documents/proceedings/proceedings/p1100.pdf)
 
 ## 2014
+- **Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective (ICDM 2014)**
+  - Neil Shah, Alex Beutel, Brian Gallagher, Christos Faloutsos
+  - [[Paper]](https://arxiv.org/pdf/1410.3915.pdf)
+  - [[Code]](https://github.com/safe-graph/UGFraud)
+
 - **Fraudulent Support Telephone Number Identification Based on Co-Occurrence Information on the Web (AAAI 2014)**
   - Xin Li, Yiqun Liu, Min Zhang, Shaoping Ma
   - [[Paper]](https://pdfs.semanticscholar.org/2733/1f48c87736ea12b9edec062e384d3bd58f88.pdf)
