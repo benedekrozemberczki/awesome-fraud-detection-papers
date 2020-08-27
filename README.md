@@ -58,8 +58,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection (KDD 2020)**
   - Sundong Kim, Yu-Che Tsai, Karandeep Singh, Yeonsoo Choi, Etim Ibok, Cheng-Te Li, Meeyoung Cha
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://seondong.github.io/assets/papers/2020_KDD_DATE.pdf)
 
 - **Fraud Transactions Detection via Behavior Tree with Local Intention Calibration (KDD 2020)**
   - Can Liu, Qiwei Zhong, Xiang Ao, Li Sun, Wangli Lin, Jinghua Feng, Qing He, Jiayu Tang
