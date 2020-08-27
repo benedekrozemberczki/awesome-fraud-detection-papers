@@ -62,8 +62,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Fraud Transactions Detection via Behavior Tree with Local Intention Calibration (KDD 2020)**
   - Can Liu, Qiwei Zhong, Xiang Ao, Li Sun, Wangli Lin, Jinghua Feng, Qing He, Jiayu Tang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403354)
 
 - **Interleaved Sequence RNNs for Fraud Detection (KDD 2020)**
   - Bernardo Branco, Pedro Abreu, Ana Sofia Gomes, Mariana S. C. Almeida, João Tiago Ascensão, Pedro Bizarro
