@@ -66,8 +66,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Interleaved Sequence RNNs for Fraud Detection (KDD 2020)**
   - Bernardo Branco, Pedro Abreu, Ana Sofia Gomes, Mariana S. C. Almeida, João Tiago Ascensão, Pedro Bizarro
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2002.05988)
   
 - **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
