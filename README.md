@@ -56,6 +56,21 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/2006.06069)
   - [[Code]](https://github.com/YingtongDou/Nash-Detect)
   
+- **DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection (KDD 2020)**
+  - Sundong Kim, Yu-Che Tsai, Karandeep Singh, Yeonsoo Choi, Etim Ibok, Cheng-Te Li, Meeyoung Cha
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fraud Transactions Detection via Behavior Tree with Local Intention Calibration (KDD 2020)**
+  - Can Liu, Qiwei Zhong, Xiang Ao, Li Sun, Wangli Lin, Jinghua Feng, Qing He, Jiayu Tang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Interleaved Sequence RNNs for Fraud Detection (KDD 2020)**
+  - Bernardo Branco, Pedro Abreu, Ana Sofia Gomes, Mariana S. C. Almeida, João Tiago Ascensão, Pedro Bizarro
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
   - [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AISI-ChengD.87.pdf)
