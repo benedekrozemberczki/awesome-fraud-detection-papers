@@ -55,6 +55,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Tong Zhao, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, Meng Jiang
   - [[Paper]](http://www.meng-jiang.com/pubs/gal-cikm20/gal-cikm20-paper.pdf)
   - [[Code]](https://github.com/zhao-tong/Graph-Anomaly-Loss)
+  
+- **BotSpot: A Hybrid Learning Framework to Uncover Bot Install Fraud in Mobile Advertising (CIKM 2020)**
+  - Tianjun Yao, Qing Li, Shangsong Liang, Yadong Zhu
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412690)
+  - [[Code]](https://github.com/akakeigo2020/CIKM-Applied_Research-2150)
 
 - **Early Fraud Detection with Augmented Graph Learning (DLG@KDD 2020)**
   - Tong Zhao, Bo Ni, Wenhao Yu, Meng Jiang
