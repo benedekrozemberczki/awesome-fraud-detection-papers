@@ -32,6 +32,10 @@ A curated list of papers about fraud detection from the following conferences:
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2020
+  
+- **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
+  - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
+  - [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AISI-ChengD.87.pdf)
 
 - **FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)**
   - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
@@ -84,10 +88,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Interleaved Sequence RNNs for Fraud Detection (KDD 2020)**
   - Bernardo Branco, Pedro Abreu, Ana Sofia Gomes, Mariana S. C. Almeida, João Tiago Ascensão, Pedro Bizarro
   - [[Paper]](https://arxiv.org/abs/2002.05988)
-  
-- **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
-  - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
-  - [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AISI-ChengD.87.pdf)
 
 - **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020)**
   - Shijie Zhang, Hongzhi Yin, Tong Chen, Quoc Viet Nguyen Hung, Zi Huang, Lizhen Cui
