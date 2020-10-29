@@ -41,18 +41,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng
   - [[Paper]](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
   - [[Code]](https://github.com/aplaceof/FlowScope)
-  
-- **Collaboration Based Multi-Label Propagation for Fraud Detection (IJCAI 2020)**
-  - Haobo Wang, Zhao Li, Jiaming Huang, Pengrui Hui, Weiwei Liu, Tianlei Hu, Gang Chen
-  - [[Paper]](https://www.ijcai.org/Proceedings/2020/343)
-
-- **The Behavioral Sign of Account Theft: Realizing Online Payment Fraud Alert (IJCAI 2020)**
-  - Cheng Wang
-  - [[Paper]](https://www.ijcai.org/Proceedings/2020/0636.pdf)
-
-- **Federated Meta-Learning for Fraudulent Credit Card Detection (IJCAI 2020)**
-  - Wenbo Zheng, Lan Yan, Chao Gou, Fei-Yue Wang
-  - [[Paper]](https://www.ijcai.org/Proceedings/2020/642)
 
 - **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (CIKM 2020)**
   - Yingtong Dou, Zhiwei Liu, Li Sun, Yutong Deng, Hao Peng, Philip S. Yu
@@ -71,6 +59,18 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Early Fraud Detection with Augmented Graph Learning (DLG@KDD 2020)**
   - Tong Zhao, Bo Ni, Wenhao Yu, Meng Jiang
   - [[Paper]](http://www.meng-jiang.com/pubs/earlyfraud-dlg20/earlyfraud-dlg20-paper.pdf)
+  
+- **Collaboration Based Multi-Label Propagation for Fraud Detection (IJCAI 2020)**
+  - Haobo Wang, Zhao Li, Jiaming Huang, Pengrui Hui, Weiwei Liu, Tianlei Hu, Gang Chen
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/343)
+
+- **The Behavioral Sign of Account Theft: Realizing Online Payment Fraud Alert (IJCAI 2020)**
+  - Cheng Wang
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/0636.pdf)
+
+- **Federated Meta-Learning for Fraudulent Credit Card Detection (IJCAI 2020)**
+  - Wenbo Zheng, Lan Yan, Chao Gou, Fei-Yue Wang
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/642)
 
 - **Robust Spammer Detection by Nash Reinforcement Learning (KDD 2020)**
   - Yingtong Dou, Guixiang Ma, Philip S. Yu, Sihong Xie
