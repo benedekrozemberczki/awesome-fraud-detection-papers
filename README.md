@@ -589,3 +589,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Fraud: Uncollectible Debt Detection Using a Bayesian Network Based Learning System: A Rare Binary Outcome with Mixed Data Structures (UAI 1995)**
   - Kazuo J. Ezawa, Til Schuermann
   - [[Paper]](https://arxiv.org/abs/1302.4945)
+  
+--------------------------------------------------------------------------------
+
+**License**
+
+- [CC0 Universal](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/blob/master/LICENSE)
+
