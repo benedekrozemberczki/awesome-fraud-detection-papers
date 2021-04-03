@@ -65,6 +65,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Early Fraud Detection with Augmented Graph Learning (DLG@KDD 2020)**
   - Tong Zhao, Bo Ni, Wenhao Yu, Meng Jiang
   - [[Paper]](http://www.meng-jiang.com/pubs/earlyfraud-dlg20/earlyfraud-dlg20-paper.pdf)
+
+- **NAG: Neural Feature Aggregation Framework for Credit Card Fraud Detection (ICDM 2020)**
+  - Kanishka Ghosh Dastidar, Johannes Jurgovsky, Wissam Siblini, Liyun He-Guelton, Michael Granitzer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection (ICDM 2020)**
+  - Yong-Nan Zhu, Xiaotian Luo, Yu-Feng Li, Bin Bu, Kaibo Zhou, Wenbin Zhang, Mingfan Lu
+  - [[Paper]]( )
+  - [[Code]]( )
   
 - **Collaboration Based Multi-Label Propagation for Fraud Detection (IJCAI 2020)**
   - Haobo Wang, Zhao Li, Jiaming Huang, Pengrui Hui, Weiwei Liu, Tianlei Hu, Gang Chen
