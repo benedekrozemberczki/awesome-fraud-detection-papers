@@ -72,8 +72,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection (ICDM 2020)**
   - Yong-Nan Zhu, Xiaotian Luo, Yu-Feng Li, Bin Bu, Kaibo Zhou, Wenbin Zhang, Mingfan Lu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://cs.nju.edu.cn/liyf/paper/icdm20-hmgnn.pdf)
   
 - **Collaboration Based Multi-Label Propagation for Fraud Detection (IJCAI 2020)**
   - Haobo Wang, Zhao Li, Jiaming Huang, Pengrui Hui, Weiwei Liu, Tianlei Hu, Gang Chen
