@@ -68,8 +68,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **NAG: Neural Feature Aggregation Framework for Credit Card Fraud Detection (ICDM 2020)**
   - Kanishka Ghosh Dastidar, Johannes Jurgovsky, Wissam Siblini, Liyun He-Guelton, Michael Granitzer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a092/1r54A3Sb2yk)
 
 - **Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection (ICDM 2020)**
   - Yong-Nan Zhu, Xiaotian Luo, Yu-Feng Li, Bin Bu, Kaibo Zhou, Wenbin Zhang, Mingfan Lu
