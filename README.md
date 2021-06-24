@@ -6,7 +6,7 @@
 <p align="center">
   <img width="450" src="fraud.png">
 </p>
-A curated list of papers about fraud detection from the following conferences:
+A curated list of fraud detection papers from the following conferences:
 
 - Network Science
    * [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
