@@ -38,22 +38,18 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021)**
   - Bingbing Xu, Huawei Shen, Bing-Jie Sun, Rong An, Qi Cao, Xueqi Cheng
   - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16582)
-  - [[Code]]( )
 
 - **Modeling the Field Value Variations and Field Interactions Simultaneously for Fraud Detection (AAAI 2021)**
   - Dongbo Xi, Bowen Song, Fuzhen Zhuang, Yongchun Zhu, Shuai Chen, Tianyi Zhang, Yuan Qi, Qing He
   - [[Paper]](https://arxiv.org/abs/2008.05600)
-  - [[Code]]( )
 
 - **IFDDS: An Anti-fraud Outbound Robot (AAAI 2021)**
   - Zihao Wang, Minghui Yang, Chunxiang Jin, Jia Liu, Zujie Wen, Saishuai Liu, Zhe Zhang
   - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/18030)
-  - [[Code]]( )
 
 - **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection (WWW 2021)**
   - Yang Liu, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)
 
 ## 2020
   
