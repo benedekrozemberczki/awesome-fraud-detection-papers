@@ -32,6 +32,29 @@ A curated list of fraud detection papers from the following conferences:
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+
+
+## 2021
+- **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021)**
+  - Bingbing Xu, Huawei Shen, Bing-Jie Sun, Rong An, Qi Cao, Xueqi Cheng
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Modeling the Field Value Variations and Field Interactions Simultaneously for Fraud Detection (AAAI 2021)**
+  - Dongbo Xi, Bowen Song, Fuzhen Zhuang, Yongchun Zhu, Shuai Chen, Tianyi Zhang, Yuan Qi, Qing He
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **IFDDS: An Anti-fraud Outbound Robot (AAAI 2021)**
+  - Zihao Wang, Minghui Yang, Chunxiang Jin, Jia Liu, Zujie Wen, Saishuai Liu, Zhe Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection (WWW 2021)**
+  - Yang Liu, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2020
   
 - **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
