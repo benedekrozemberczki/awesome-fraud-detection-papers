@@ -47,6 +47,21 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Zihao Wang, Minghui Yang, Chunxiang Jin, Jia Liu, Zujie Wen, Saishuai Liu, Zhe Zhang
   - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/18030)
 
+- **Online Credit Payment Fraud Detection via Structure-Aware Hierarchical Recurrent Neural Network (IJCAI 2021)**
+  - Wangli Lin, Li Sun, Qiwei Zhong, Can Liu, Jinghua Feng, Xiang Ao, Hao Yang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection (KDD 2021)**
+  - Can Liu, Li Sun, Xiang Ao, Jinghua Feng, Qing He, Hao Yang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach (KDD 2021)**
+  - Haishuai Wang, Zhao Li, Peng Zhang, Jiaming Huang, Pengrui Hui, Jian Liao, Ji Zhang, Jiajun Bu
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection (WWW 2021)**
   - Yang Liu, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)
