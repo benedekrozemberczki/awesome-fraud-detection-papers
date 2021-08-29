@@ -57,8 +57,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach (KDD 2021)**
   - Haishuai Wang, Zhao Li, Peng Zhang, Jiaming Huang, Pengrui Hui, Jian Liao, Ji Zhang, Jiajun Bu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467065)
 
 - **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection (WWW 2021)**
   - Yang Liu, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He
