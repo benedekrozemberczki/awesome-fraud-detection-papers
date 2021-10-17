@@ -59,11 +59,20 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Haishuai Wang, Zhao Li, Peng Zhang, Jiaming Huang, Pengrui Hui, Jian Liao, Ji Zhang, Jiajun Bu
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467065)
 
+- **Customs Fraud Detection in the Presence of Concept Drift (IncrLearn@ICDM 2021)**
+  - Tung-Duong Mai, Kien Hoang, Aitolkyn Baigutanova, Gaukhartas Alina, Sundong Kim
+  - [[Paper]](https://arxiv.org/abs/2109.14155)
+  
 - **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection (WWW 2021)**
   - Yang Liu, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)
 
 ## 2020
+
+- **Take a Chance: Managing the Exploitation-Exploration Dilemma in Customs Fraud Detection via Online Active Learning (ArXiv 2020)**
+  - Sundong Kim, Tung-Duong Mai, Thi Nguyen Duc Khanh, Sungwon Han, Sungwon Park, Karandeep Singh, Meeyoung Cha
+  - [[Paper]](https://arxiv.org/abs/2010.14282)
+  - [[Code]](https://github.com/Seondong/Customs-Fraud-Detection)
   
 - **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
@@ -125,6 +134,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection (KDD 2020)**
   - Sundong Kim, Yu-Che Tsai, Karandeep Singh, Yeonsoo Choi, Etim Ibok, Cheng-Te Li, Meeyoung Cha
   - [[Paper]](https://seondong.github.io/assets/papers/2020_KDD_DATE.pdf)
+  - [[Code]](https://github.com/Roytsai27/Dual-Attentive-Tree-aware-Embedding)
 
 - **Fraud Transactions Detection via Behavior Tree with Local Intention Calibration (KDD 2020)**
   - Can Liu, Qiwei Zhong, Xiang Ao, Li Sun, Wangli Lin, Jinghua Feng, Qing He, Jiayu Tang
