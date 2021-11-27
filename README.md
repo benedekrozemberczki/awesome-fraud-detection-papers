@@ -47,6 +47,31 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Zihao Wang, Minghui Yang, Chunxiang Jin, Jia Liu, Zujie Wen, Saishuai Liu, Zhe Zhang
   - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/18030)
 
+- **Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism (CIKM 2021)**
+  - Li Wang, Peipei Li, Kai Xiong, Jiashu Zhao, Rui Lin
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fraud Detection under Multi-Sourced Extremely Noisy Annotations (CIKM 2021)**
+  - Chuang Zhang, Qizhou Wang, Tengfei Liu, Xun Lu, Jin Hong, Bo Han, Chen Gong
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Adversarial Reprogramming of Pretrained Neural Networks for Fraud Detection (CIKM 2021)**
+  - Lingwei Chen, Yujie Fan, Yanfang Ye
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fine-Grained Element Identification in Complaint Text of Internet Fraud (CIKM 2021)**
+  - Tong Liu, Siyuan Wang, Jingchao Fu, Lei Chen, Zhongyu Wei, Yaqi Liu, Heng Ye, Liaosa Xu, Weiqiang Wang, Xuanjing Huang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **%27Could You Describe the Reason for the Transfer%3F%27: A Reinforcement Learning Based Voice-Enabled Bot Protecting Customers from Financial Frauds (CIKM 2021)**
+  - Zihao Wang, Fudong Wang, Haipeng Zhang, Minghui Yang, Shaosheng Cao, Zujie Wen, Zhe Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Online Credit Payment Fraud Detection via Structure-Aware Hierarchical Recurrent Neural Network (IJCAI 2021)**
   - Wangli Lin, Li Sun, Qiwei Zhong, Can Liu, Jinghua Feng, Xiang Ao, Hao Yang
   - [[Paper]](https://www.ijcai.org/proceedings/2021/505)
