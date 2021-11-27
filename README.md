@@ -57,18 +57,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Adversarial Reprogramming of Pretrained Neural Networks for Fraud Detection (CIKM 2021)**
   - Lingwei Chen, Yujie Fan, Yanfang Ye
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482053)
 
 - **Fine-Grained Element Identification in Complaint Text of Internet Fraud (CIKM 2021)**
   - Tong Liu, Siyuan Wang, Jingchao Fu, Lei Chen, Zhongyu Wei, Yaqi Liu, Heng Ye, Liaosa Xu, Weiqiang Wang, Xuanjing Huang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2108.08676)
 
-- **%27Could You Describe the Reason for the Transfer%3F%27: A Reinforcement Learning Based Voice-Enabled Bot Protecting Customers from Financial Frauds (CIKM 2021)**
+- **Could You Describe the Reason for the Transfer: A Reinforcement Learning Based Voice-Enabled Bot Protecting Customers from Financial Frauds (CIKM 2021)**
   - Zihao Wang, Fudong Wang, Haipeng Zhang, Minghui Yang, Shaosheng Cao, Zujie Wen, Zhe Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3481906)
 
 - **Online Credit Payment Fraud Detection via Structure-Aware Hierarchical Recurrent Neural Network (IJCAI 2021)**
   - Wangli Lin, Li Sun, Qiwei Zhong, Can Liu, Jinghua Feng, Xiang Ao, Hao Yang
