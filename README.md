@@ -49,13 +49,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism (CIKM 2021)**
   - Li Wang, Peipei Li, Kai Xiong, Jiashu Zhao, Rui Lin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482277)
 
 - **Fraud Detection under Multi-Sourced Extremely Noisy Annotations (CIKM 2021)**
   - Chuang Zhang, Qizhou Wang, Tengfei Liu, Xun Lu, Jin Hong, Bo Han, Chen Gong
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://gcatnjust.github.io/ChenGong/paper/zhang_cikm21.pdf)
 
 - **Adversarial Reprogramming of Pretrained Neural Networks for Fraud Detection (CIKM 2021)**
   - Lingwei Chen, Yujie Fan, Yanfang Ye
