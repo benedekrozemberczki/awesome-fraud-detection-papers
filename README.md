@@ -33,6 +33,16 @@ A curated list of fraud detection papers from the following conferences:
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 
+## 2022
+- **Active Learning for Human-in-the-loop Customs Inspection (TKDE 2022)**
+  - Sundong Kim, Tung-Duong Mai, Thi Nguyen Duc Khanh, Sungwon Han, Sungwon Park, Karandeep Singh, Meeyoung Cha
+  - [[Paper]](https://ieeexplore.ieee.org/document/9695316/)
+  - [[Code]](https://github.com/Seondong/Customs-Fraud-Detection)
+
+- **Knowledge Sharing via Domain Adaptation in Customs Fraud Detection (AAAI 2022)**
+  - Sungwon Park, Sundong Kim, Meeyoung Cha
+  - [[Paper]](https://arxiv.org/abs/2201.06759)
+
 
 ## 2021
 - **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021)**
@@ -88,11 +98,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)
 
 ## 2020
-
-- **Take a Chance: Managing the Exploitation-Exploration Dilemma in Customs Fraud Detection via Online Active Learning (ArXiv 2020)**
-  - Sundong Kim, Tung-Duong Mai, Thi Nguyen Duc Khanh, Sungwon Han, Sungwon Park, Karandeep Singh, Meeyoung Cha
-  - [[Paper]](https://arxiv.org/abs/2010.14282)
-  - [[Code]](https://github.com/Seondong/Customs-Fraud-Detection)
   
 - **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)**
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
