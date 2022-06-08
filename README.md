@@ -34,6 +34,32 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 
 ## 2022
+
+- **The Importance of Future Information in Credit Card Fraud Detection (AISTATS 2022)**
+  - Van Bach Nguyen, Kanishka Ghosh Dastidar, Michael Granitzer, Wissam Siblini
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **A View into YouTube View Fraud (WWW 2022)**
+  - Dhruv Kuchhal, Frank Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Beyond Bot Detection: Combating Fraudulent Online Survey Takers%E2%9C%B1 (WWW 2022)**
+  - Ziyi Zhang, Shuofei Zhu, Jaron Mink, Aiping Xiong, Linhai Song, Gang Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **AUC-oriented Graph Neural Network for Fraud Detection (WWW 2022)**
+  - Mengda Huang, Yang Liu, Xiang Ao, Kuan Li, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections (WWW 2022)**
+  - Fengzhao Shi, Yanan Cao, Yanmin Shang, Yuchen Zhou, Chuan Zhou, Jia Wu
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Active Learning for Human-in-the-loop Customs Inspection (TKDE 2022)**
   - Sundong Kim, Tung-Duong Mai, Thi Nguyen Duc Khanh, Sungwon Han, Sungwon Park, Karandeep Singh, Meeyoung Cha
   - [[Paper]](https://ieeexplore.ieee.org/document/9695316/)
