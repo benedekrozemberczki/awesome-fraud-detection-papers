@@ -37,28 +37,23 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **The Importance of Future Information in Credit Card Fraud Detection (AISTATS 2022)**
   - Van Bach Nguyen, Kanishka Ghosh Dastidar, Michael Granitzer, Wissam Siblini
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2204.05265)
 
 - **A View into YouTube View Fraud (WWW 2022)**
   - Dhruv Kuchhal, Frank Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3512216)
 
-- **Beyond Bot Detection: Combating Fraudulent Online Survey Takers%E2%9C%B1 (WWW 2022)**
+- **Beyond Bot Detection: Combating Fraudulent Online Survey Takers (WWW 2022)**
   - Ziyi Zhang, Shuofei Zhu, Jaron Mink, Aiping Xiong, Linhai Song, Gang Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://gangw.cs.illinois.edu/www22-bot.pdf)
 
 - **AUC-oriented Graph Neural Network for Fraud Detection (WWW 2022)**
   - Mengda Huang, Yang Liu, Xiang Ao, Kuan Li, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ponderly.github.io/pub/AOGNN_WWW2022.pdf)
 
 - **H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections (WWW 2022)**
   - Fengzhao Shi, Yanan Cao, Yanmin Shang, Yuchen Zhou, Chuan Zhou, Jia Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3512195)
 
 - **Active Learning for Human-in-the-loop Customs Inspection (TKDE 2022)**
   - Sundong Kim, Tung-Duong Mai, Thi Nguyen Duc Khanh, Sungwon Han, Sungwon Park, Karandeep Singh, Meeyoung Cha
