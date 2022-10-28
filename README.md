@@ -39,6 +39,36 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Van Bach Nguyen, Kanishka Ghosh Dastidar, Michael Granitzer, Wissam Siblini
   - [[Paper]](https://arxiv.org/abs/2204.05265)
 
+- **BRIGHT - Graph Neural Networks in Real-time Fraud Detection (CIKM 2022)**
+  - Mingxuan Lu, Zhichao Han, Susie Xi Rao, Zitao Zhang, Yang Zhao, Yinan Shan, Ramesh Raghunathan, Ce Zhang, Jiawei Jiang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Dual-Augment Graph Neural Network for Fraud Detection (CIKM 2022)**
+  - Qiutong Li, Yanshen He, Cong Xu, Feng Wu, Jianliang Gao, Zhao Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Explainable Graph-based Fraud Detection via Neural Meta-graph Search (CIKM 2022)**
+  - Zidi Qin, Yang Liu, Qing He, Xiang Ao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MetaRule: A Meta-path Guided Ensemble Rule Set Learning for Explainable Fraud Detection (CIKM 2022)**
+  - Lu Yu, Meng Li, Xiaoguang Huang, Wei Zhu, Yanming Fang, Jun Zhou, Longfei Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **User Behavior Pre-training for Online Fraud Detection (KDD 2022)**
+  - Can Liu, Yuncong Gao, Li Sun, Jinghua Feng, Hao Yang, Xiang Ao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Accelerated GNN Training with DGL and RAPIDS cuGraph in a Fraud Detection Workflow (KDD 2022)**
+  - Brad Rees, Xiaoyun Wang, Joe Eaton, Onur Yilmaz, Rick Ratzel, Dominque LaSalle
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **A View into YouTube View Fraud (WWW 2022)**
   - Dhruv Kuchhal, Frank Li
   - [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3512216)
