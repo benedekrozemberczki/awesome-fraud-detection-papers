@@ -62,7 +62,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Accelerated GNN Training with DGL and RAPIDS cuGraph in a Fraud Detection Workflow (KDD 2022)**
   - Brad Rees, Xiaoyun Wang, Joe Eaton, Onur Yilmaz, Rick Ratzel, Dominque LaSalle
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3542603)
-  - [[Code]]( )
 
 - **A View into YouTube View Fraud (WWW 2022)**
   - Dhruv Kuchhal, Frank Li
