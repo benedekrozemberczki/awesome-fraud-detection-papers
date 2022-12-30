@@ -35,6 +35,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2022
 
+- **Knowledge Sharing via Domain Adaptation in Customs Fraud Detection (AAAI 2022)**
+  - Sungwon Park, Sundong Kim, Meeyoung Cha
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **The Importance of Future Information in Credit Card Fraud Detection (AISTATS 2022)**
   - Van Bach Nguyen, Kanishka Ghosh Dastidar, Michael Granitzer, Wissam Siblini
   - [[Paper]](https://arxiv.org/abs/2204.05265)
