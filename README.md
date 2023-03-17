@@ -33,6 +33,12 @@ A curated list of fraud detection papers from the following conferences:
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 
+## 2023
+
+- **A Framework for Detecting Frauds from Extremely Few Labels (WSDM 2023)**
+  - Ya-Lin Zhang, Yi-Xuan Sun, Fangfang Fan, Meng Li, Yeyu Zhao, Wei Wang, Longfei Li, Jun Zhou, Jinghua Feng
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3539597.3573022)
+
 ## 2022
 
 - **The Importance of Future Information in Credit Card Fraud Detection (AISTATS 2022)**
