@@ -49,13 +49,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
  
 - **Label Information Enhanced Fraud Detection against Low Homophily in Graphs (WWW 2023)**
   - Yuchen Wang, Jinghui Zhang, Zhengjie Huang, Weibin Li, Shikun Feng, Ziheng Ma, Yu Sun, Dianhai Yu, Fang Dong, Jiahui Jin, Beilun Wang, Junzhou Luo (WWW 2023)
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2302.10407)
 
 - **BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection (WWW 2023)**
   - Sihao Hu, Zhen Zhang, Bingqiao Luo, Shengliang Lu, Bingsheng He, Ling Liu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2303.18138)
 
 ## 2022
 
