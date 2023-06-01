@@ -46,6 +46,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **A Framework for Detecting Frauds from Extremely Few Labels (WSDM 2023)**
   - Ya-Lin Zhang, Yi-Xuan Sun, Fangfang Fan, Meng Li, Yeyu Zhao, Wei Wang, Longfei Li, Jun Zhou, Jinghua Feng
   - [[Paper]](https://dl.acm.org/doi/10.1145/3539597.3573022)
+ 
+- **Label Information Enhanced Fraud Detection against Low Homophily in Graphs (WWW 2023)**
+  - Yuchen Wang, Jinghui Zhang, Zhengjie Huang, Weibin Li, Shikun Feng, Ziheng Ma, Yu Sun, Dianhai Yu, Fang Dong, Jiahui Jin, Beilun Wang, Junzhou Luo (WWW 2023)
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection (WWW 2023)**
+  - Sihao Hu, Zhen Zhang, Bingqiao Luo, Shengliang Lu, Bingsheng He, Ling Liu
+  - [[Paper]]( )
+  - [[Code]]( )
 
 ## 2022
 
