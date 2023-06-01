@@ -34,6 +34,14 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 
 ## 2023
+- **Anti-Money Laundering by Group-Aware Deep Graph Learning (TKDE 2023)**
+  - Dawei Cheng, Yujia Ye, Sheng Xiang, Zhenwei Ma, Ying Zhang, Changjun Jiang
+  - [[Paper]](https://doi.org/10.1109/TKDE.2023.3272396)
+
+- **Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI 2023)**
+  - Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
+  - [[Paper]](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf)
+  - [[Code]](https://github.com/finint/antifraud)
 
 - **A Framework for Detecting Frauds from Extremely Few Labels (WSDM 2023)**
   - Ya-Lin Zhang, Yi-Xuan Sun, Fangfang Fan, Meng Li, Yeyu Zhao, Wei Wang, Longfei Li, Jun Zhou, Jinghua Feng
