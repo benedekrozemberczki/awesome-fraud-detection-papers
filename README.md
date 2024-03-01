@@ -56,6 +56,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/2303.18138)
 
 ## 2022
+- **Detecting Cash-out Users via Dense Subgraphs (KDD 2022)**
+  - Yingsheng Ji, Zheng Zhang, Xinlei Tang, Jiachen Shen, Xi Zhang, Guangwen Yang
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539252)
 
 - **The Importance of Future Information in Credit Card Fraud Detection (AISTATS 2022)**
   - Van Bach Nguyen, Kanishka Ghosh Dastidar, Michael Granitzer, Wissam Siblini
