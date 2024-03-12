@@ -79,6 +79,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Detecting Cash-out Users via Dense Subgraphs (KDD 2022)**
   - Yingsheng Ji, Zheng Zhang, Xinlei Tang, Jiachen Shen, Xi Zhang, Guangwen Yang
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539252)
+  - [[Code]](https://github.com/transcope/antico)
 
 - **User Behavior Pre-training for Online Fraud Detection (KDD 2022)**
   - Can Liu, Yuncong Gao, Li Sun, Jinghua Feng, Hao Yang, Xiang Ao
