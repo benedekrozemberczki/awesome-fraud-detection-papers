@@ -110,7 +110,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Sungwon Park, Sundong Kim, Meeyoung Cha
   - [[Paper]](https://arxiv.org/abs/2201.06759)
 
-
 ## 2021
 - **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021)**
   - Bingbing Xu, Huawei Shen, Bing-Jie Sun, Rong An, Qi Cao, Xueqi Cheng
