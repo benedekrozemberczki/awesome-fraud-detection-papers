@@ -56,7 +56,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/2303.18138)
 
 ## 2022
-
 - **The Importance of Future Information in Credit Card Fraud Detection (AISTATS 2022)**
   - Van Bach Nguyen, Kanishka Ghosh Dastidar, Michael Granitzer, Wissam Siblini
   - [[Paper]](https://arxiv.org/abs/2204.05265)
@@ -76,6 +75,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **MetaRule: A Meta-path Guided Ensemble Rule Set Learning for Explainable Fraud Detection (CIKM 2022)**
   - Lu Yu, Meng Li, Xiaoguang Huang, Wei Zhu, Yanming Fang, Jun Zhou, Longfei Li
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557641)
+  
+- **Detecting Cash-out Users via Dense Subgraphs (KDD 2022)**
+  - Yingsheng Ji, Zheng Zhang, Xinlei Tang, Jiachen Shen, Xi Zhang, Guangwen Yang
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539252)
+  - [[Code]](https://github.com/transcope/antico)
 
 - **User Behavior Pre-training for Online Fraud Detection (KDD 2022)**
   - Can Liu, Yuncong Gao, Li Sun, Jinghua Feng, Hao Yang, Xiang Ao
