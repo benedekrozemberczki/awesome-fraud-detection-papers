@@ -32,8 +32,32 @@ A curated list of fraud detection papers from the following conferences:
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2025
+- **Bursting Flow Query on Large Temporal Flow Networks (SIGMOD 2025)**
+  - Lyu Xu, Jiaxin Jiang#, Byron Choi, Jianliang Xu, Bingsheng He.
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3709737)
+
+- **Dupin: A Parallel Framework for Densest Subgraph Discovery in Fraud Detection on Massive Graphs (SIGMOD 2025)**
+  - Jiaxin Jiang, Siyuan Yao, Yuchen Li, Qiange Wang, Bingsheng He, Min Chen.
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3725287)
+
+
+
+## 2024
+- **RUSH: Real-Time Burst Subgraph Detection in Dynamic Graphs (VLDB 2024)**
+  - Yuhang Chen, Jiaxin Jiang#, Shixuan Sun, Bingsheng He, Min Chen.
+  - [[Paper]](https://www.vldb.org/pvldb/vol17/p3657-chen.pdf)
+
+- **Spade+: A Generic Real-Time Fraud Detection Framework on Dynamic Graphs (TKDE 2024)**
+  - Jiaxin Jiang, Yuhang Chen, Bingsheng He, Min Chen, Jia Chen.
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/10510636/)
 
 ## 2023
+
+- **Spade: A Real-Time Fraud Detection Framework on Evolving Graphs (VLDB 2023)**
+  - Jiaxin Jiang, Yuan Li, Bingsheng He, Bryan Hooi, Jia Chen, Johan Kok Zhi Kang.
+  - [[Paper]](https://www.vldb.org/pvldb/vol16/p461-jiang.pdf)
+
 - **Anti-Money Laundering by Group-Aware Deep Graph Learning (TKDE 2023)**
   - Dawei Cheng, Yujia Ye, Sheng Xiang, Zhenwei Ma, Ying Zhang, Changjun Jiang
   - [[Paper]](https://doi.org/10.1109/TKDE.2023.3272396)
